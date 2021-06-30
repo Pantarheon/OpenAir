@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 875 792" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <g>
+            <path d="M407.097,177.813c4.341,8.161 12.83,13.261 22.073,13.261c9.244,-0 17.733,-5.1 22.073,-13.261c67.343,-126.629 201.408,-129.221 268.752,-65.906c-0,-0 0,0 0,0c26.79,25.187 42.407,60.664 47.765,101.97c8.68,66.916 -9.313,148.378 -52.713,229.983c-0.11,0.206 -0.217,0.414 -0.321,0.624c-50.116,100.965 -176.578,201.196 -285.556,271.042c-108.978,-69.846 -235.44,-170.077 -285.556,-271.042c-0.103,-0.21 -0.21,-0.417 -0.32,-0.624c-43.399,-81.605 -61.391,-163.067 -52.711,-229.983c5.358,-41.306 20.973,-76.784 47.763,-101.97c67.344,-63.315 201.408,-60.723 268.751,65.906Z" style="fill:#009abc;fill-opacity:0.5;"/>
+            <path d="M439.17,118.793c-91.483,-126.462 -245.278,-118.335 -325.073,-43.314c-83.312,78.327 -88.308,234.901 -5.109,391.556c55.725,111.941 197.837,224.642 316.905,299.272c8.12,5.089 18.434,5.089 26.554,-0c119.074,-74.633 261.195,-187.343 316.917,-299.294c83.19,-156.636 78.194,-313.208 -5.121,-391.535c-79.795,-75.02 -233.59,-83.147 -325.073,43.315l0,-0Zm-22.073,59.02c4.341,8.161 12.83,13.261 22.073,13.261c9.244,-0 17.733,-5.1 22.073,-13.261c67.343,-126.629 201.408,-129.221 268.752,-65.906c-0,-0 0,0 0,0c26.79,25.187 42.407,60.664 47.765,101.97c8.68,66.916 -9.313,148.378 -52.713,229.983c-0.11,0.206 -0.217,0.414 -0.321,0.624c-50.116,100.965 -176.578,201.196 -285.556,271.042c-108.978,-69.846 -235.44,-170.077 -285.556,-271.042c-0.103,-0.21 -0.21,-0.417 -0.32,-0.624c-43.399,-81.605 -61.391,-163.067 -52.711,-229.983c5.358,-41.306 20.973,-76.784 47.763,-101.97c67.344,-63.315 201.408,-60.723 268.751,65.906Z" style="fill:#009abc;fill-opacity:0.5;"/>
+        </g>
+        <g>
+            <g>
+                <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,901.77,332.056)">
+                    <g transform="matrix(-0.473241,-0.880933,0.880933,-0.473241,-353.082,1390.8)">
+                        <text x="239.278px" y="800.964px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:none;stroke:#00294b;stroke-width:40.15px;">W</text>
+                    </g>
+                    <g transform="matrix(-0.182491,-0.983207,0.983207,-0.182491,-439.159,900.698)">
+                        <text x="154.873px" y="632.923px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:none;stroke:#00294b;stroke-width:40.15px;">O</text>
+                    </g>
+                    <g transform="matrix(0.0504995,-0.998724,0.998724,0.0504995,-358.915,586.347)">
+                        <text x="128.915px" y="481.934px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:none;stroke:#00294b;stroke-width:40.15px;">R</text>
+                    </g>
+                    <g transform="matrix(0.256715,-0.966487,0.966487,0.256715,-222.639,384.384)">
+                        <text x="138.586px" y="336.94px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:none;stroke:#00294b;stroke-width:40.15px;">L</text>
+                    </g>
+                    <g transform="matrix(0.484441,-0.874824,0.874824,0.484441,-111.082,262.835)">
+                        <text x="167.454px" y="225.662px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:none;stroke:#00294b;stroke-width:40.15px;">D</text>
+                    </g>
+                </g>
+                <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,901.77,79.8504)">
+                    <g transform="matrix(-0.443183,-0.896431,0.896431,-0.443183,-370.826,1291.16)">
+                        <text x="215.588px" y="760.748px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:none;stroke:#00294b;stroke-width:40.15px;">H</text>
+                    </g>
+                    <g transform="matrix(-0.202423,-0.979298,0.979298,-0.202423,-433.151,916.209)">
+                        <text x="156.522px" y="634.492px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:none;stroke:#00294b;stroke-width:40.15px;">E</text>
+                    </g>
+                    <g transform="matrix(-0.0119759,-0.999928,0.999928,-0.0119759,-373.527,645.584)">
+                        <text x="132.185px" y="507.332px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:none;stroke:#00294b;stroke-width:40.15px;">L</text>
+                    </g>
+                    <g transform="matrix(0.164692,-0.986345,0.986345,0.164692,-277.425,457.841)">
+                        <text x="131.6px" y="392.714px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:none;stroke:#00294b;stroke-width:40.15px;">L</text>
+                    </g>
+                    <g transform="matrix(0.362658,-0.931922,0.931922,0.362658,-181.493,322.905)">
+                        <text x="145.329px" y="294.142px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:none;stroke:#00294b;stroke-width:40.15px;">O</text>
+                    </g>
+                    <g transform="matrix(0.563273,-0.826271,0.826271,0.563273,-37.3684,238.311)">
+                        <text x="206.753px" y="154.505px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:none;stroke:#00294b;stroke-width:40.15px;">,</text>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,901.77,332.056)">
+                    <g transform="matrix(-0.473241,-0.880933,0.880933,-0.473241,-353.082,1390.8)">
+                        <text x="239.278px" y="800.964px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:#00ff78;">W</text>
+                    </g>
+                    <g transform="matrix(-0.182491,-0.983207,0.983207,-0.182491,-439.159,900.698)">
+                        <text x="154.873px" y="632.923px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:#00ff78;">O</text>
+                    </g>
+                    <g transform="matrix(0.0504995,-0.998724,0.998724,0.0504995,-358.915,586.347)">
+                        <text x="128.915px" y="481.934px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:#00ff78;">R</text>
+                    </g>
+                    <g transform="matrix(0.256715,-0.966487,0.966487,0.256715,-222.639,384.384)">
+                        <text x="138.586px" y="336.94px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:#00ff78;">L</text>
+                    </g>
+                    <g transform="matrix(0.484441,-0.874824,0.874824,0.484441,-111.082,262.835)">
+                        <text x="167.454px" y="225.662px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:#00ff78;">D</text>
+                    </g>
+                </g>
+                <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,901.77,79.8504)">
+                    <g transform="matrix(-0.443183,-0.896431,0.896431,-0.443183,-370.826,1291.16)">
+                        <text x="215.588px" y="760.748px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:#00ff78;">H</text>
+                    </g>
+                    <g transform="matrix(-0.202423,-0.979298,0.979298,-0.202423,-433.151,916.209)">
+                        <text x="156.522px" y="634.492px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:#00ff78;">E</text>
+                    </g>
+                    <g transform="matrix(-0.0119759,-0.999928,0.999928,-0.0119759,-373.527,645.584)">
+                        <text x="132.185px" y="507.332px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:#00ff78;">L</text>
+                    </g>
+                    <g transform="matrix(0.164692,-0.986345,0.986345,0.164692,-277.425,457.841)">
+                        <text x="131.6px" y="392.714px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:#00ff78;">L</text>
+                    </g>
+                    <g transform="matrix(0.362658,-0.931922,0.931922,0.362658,-181.493,322.905)">
+                        <text x="145.329px" y="294.142px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:#00ff78;">O</text>
+                    </g>
+                    <g transform="matrix(0.563273,-0.826271,0.826271,0.563273,-37.3684,238.311)">
+                        <text x="206.753px" y="154.505px" style="font-family:'OpenAirWall', 'Open Air Wall';font-weight:500;font-size:200px;fill:#00ff78;">,</text>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,901.77,332.056)">
+                    <g transform="matrix(-0.473241,-0.880933,0.880933,-0.473241,-353.082,1390.8)">
+                        <text x="239.278px" y="800.964px" style="font-family:'OpenAirWindow', 'Open Air Window';font-weight:500;font-size:200px;fill:#005b24;">W</text>
+                    </g>
+                    <g transform="matrix(-0.182491,-0.983207,0.983207,-0.182491,-439.159,900.698)">
+                        <text x="154.873px" y="632.923px" style="font-family:'OpenAirWindow', 'Open Air Window';font-weight:500;font-size:200px;fill:#005b24;">O</text>
+                    </g>
+                    <g transform="matrix(0.0504995,-0.998724,0.998724,0.0504995,-358.915,586.347)">
+                        <text x="128.915px" y="481.934px" style="font-family:'OpenAirWindow', 'Open Air Window';font-weight:500;font-size:200px;fill:#005b24;">R</text>
+                    </g>
+                    <g transform="matrix(0.256715,-0.966487,0.966487,0.256715,-222.639,384.384)">
+                        <text x="138.586px" y="336.94px" style="font-family:'OpenAirWindow', 'Open Air Window';font-weight:500;font-size:200px;fill:#005b24;">L</text>
+                    </g>
+                    <g transform="matrix(0.484441,-0.874824,0.874824,0.484441,-111.082,262.835)">
+                        <text x="167.454px" y="225.662px" style="font-family:'OpenAirWindow', 'Open Air Window';font-weight:500;font-size:200px;fill:#005b24;">D</text>
+                    </g>
+                </g>
+                <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,901.77,79.8504)">
+                    <g transform="matrix(-0.443183,-0.896431,0.896431,-0.443183,-370.826,1291.16)">
+                        <text x="215.588px" y="760.748px" style="font-family:'OpenAirWindow', 'Open Air Window';font-weight:500;font-size:200px;fill:#005b24;">H</text>
+                    </g>
+                    <g transform="matrix(-0.202423,-0.979298,0.979298,-0.202423,-433.151,916.209)">
+                        <text x="156.522px" y="634.492px" style="font-family:'OpenAirWindow', 'Open Air Window';font-weight:500;font-size:200px;fill:#005b24;">E</text>
+                    </g>
+                    <g transform="matrix(-0.0119759,-0.999928,0.999928,-0.0119759,-373.527,645.584)">
+                        <text x="132.185px" y="507.332px" style="font-family:'OpenAirWindow', 'Open Air Window';font-weight:500;font-size:200px;fill:#005b24;">L</text>
+                    </g>
+                    <g transform="matrix(0.164692,-0.986345,0.986345,0.164692,-277.425,457.841)">
+                        <text x="131.6px" y="392.714px" style="font-family:'OpenAirWindow', 'Open Air Window';font-weight:500;font-size:200px;fill:#005b24;">L</text>
+                    </g>
+                    <g transform="matrix(0.362658,-0.931922,0.931922,0.362658,-181.493,322.905)">
+                        <text x="145.329px" y="294.142px" style="font-family:'OpenAirWindow', 'Open Air Window';font-weight:500;font-size:200px;fill:#005b24;">O</text>
+                    </g>
+                    <g transform="matrix(0.563273,-0.826271,0.826271,0.563273,-37.3684,238.311)">
+                        <text x="206.753px" y="154.505px" style="font-family:'OpenAirWindow', 'Open Air Window';font-weight:500;font-size:200px;fill:#005b24;">,</text>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,901.77,332.056)">
+                    <g transform="matrix(-0.473241,-0.880933,0.880933,-0.473241,-353.082,1390.8)">
+                        <text x="239.278px" y="800.964px" style="font-family:'OpenAirDuct', 'Open Air Duct';font-weight:500;font-size:200px;fill:#0d7eff;">W</text>
+                    </g>
+                    <g transform="matrix(-0.182491,-0.983207,0.983207,-0.182491,-439.159,900.698)">
+                        <text x="154.873px" y="632.923px" style="font-family:'OpenAirDuct', 'Open Air Duct';font-weight:500;font-size:200px;fill:#0d7eff;">O</text>
+                    </g>
+                    <g transform="matrix(0.0504995,-0.998724,0.998724,0.0504995,-358.915,586.347)">
+                        <text x="128.915px" y="481.934px" style="font-family:'OpenAirDuct', 'Open Air Duct';font-weight:500;font-size:200px;fill:#0d7eff;">R</text>
+                    </g>
+                    <g transform="matrix(0.256715,-0.966487,0.966487,0.256715,-222.639,384.384)">
+                        <text x="138.586px" y="336.94px" style="font-family:'OpenAirDuct', 'Open Air Duct';font-weight:500;font-size:200px;fill:#0d7eff;">L</text>
+                    </g>
+                    <g transform="matrix(0.484441,-0.874824,0.874824,0.484441,-111.082,262.835)">
+                        <text x="167.454px" y="225.662px" style="font-family:'OpenAirDuct', 'Open Air Duct';font-weight:500;font-size:200px;fill:#0d7eff;">D</text>
+                    </g>
+                </g>
+                <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,901.77,79.8504)">
+                    <g transform="matrix(-0.443183,-0.896431,0.896431,-0.443183,-370.826,1291.16)">
+                        <text x="215.588px" y="760.748px" style="font-family:'OpenAirDuct', 'Open Air Duct';font-weight:500;font-size:200px;fill:#0d7eff;">H</text>
+                    </g>
+                    <g transform="matrix(-0.202423,-0.979298,0.979298,-0.202423,-433.151,916.209)">
+                        <text x="156.522px" y="634.492px" style="font-family:'OpenAirDuct', 'Open Air Duct';font-weight:500;font-size:200px;fill:#0d7eff;">E</text>
+                    </g>
+                    <g transform="matrix(-0.0119759,-0.999928,0.999928,-0.0119759,-373.527,645.584)">
+                        <text x="132.185px" y="507.332px" style="font-family:'OpenAirDuct', 'Open Air Duct';font-weight:500;font-size:200px;fill:#0d7eff;">L</text>
+                    </g>
+                    <g transform="matrix(0.164692,-0.986345,0.986345,0.164692,-277.425,457.841)">
+                        <text x="131.6px" y="392.714px" style="font-family:'OpenAirDuct', 'Open Air Duct';font-weight:500;font-size:200px;fill:#0d7eff;">L</text>
+                    </g>
+                    <g transform="matrix(0.362658,-0.931922,0.931922,0.362658,-181.493,322.905)">
+                        <text x="145.329px" y="294.142px" style="font-family:'OpenAirDuct', 'Open Air Duct';font-weight:500;font-size:200px;fill:#0d7eff;">O</text>
+                    </g>
+                    <g transform="matrix(0.563273,-0.826271,0.826271,0.563273,-37.3684,238.311)">
+                        <text x="206.753px" y="154.505px" style="font-family:'OpenAirDuct', 'Open Air Duct';font-weight:500;font-size:200px;fill:#0d7eff;">,</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
