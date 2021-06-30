@@ -1,0 +1,1317 @@
+#!/usr/bin/jadro
+:As {	A
+	Aacute
+	Abreve
+	Acircumflex
+	Adieresis
+	Agrave
+	Aogonek
+	Aring
+	Atilde
+}
+
+:periAs {	As
+	AE
+}
+
+:as {	a
+	aacute
+	abreve
+	acircumflex
+	adieresis
+	agrave
+	aogonek
+	aring
+	atilde
+}
+
+:perias {	as
+	ae
+}
+
+:asc {	a.sc
+	aacute.sc
+	abreve.sc
+	acircumflex.sc
+	adieresis.sc
+	agrave.sc
+	aogonek.sc
+	aring.sc
+	atilde.sc
+}
+
+:periasc {	asc
+	ae.sc
+}
+
+:Cs {	C
+	Cacute
+	Ccaron
+	Ccedilla
+	Ccircumflex
+	Cdotaccent
+}
+
+:cs {	c
+	cacute
+	ccaron
+	ccedilla
+	ccircumflex
+	cdotaccent
+}
+
+:csc {	c.sc
+	cacute.sc
+	ccaron.sc
+	ccedilla.sc
+	ccircumflex.sc
+	cdotaccent.sc
+}
+
+:ds {	d
+	dcaron
+	dcroat
+}
+
+:es {	e
+	eacute
+	ebreve
+	ecaron
+	ecircumflex
+	edieresis
+	edotaccent
+	egrave
+	emacron
+	eogonek
+}
+
+:Gs {	G
+	Gbreve
+	Gcircumflex
+	Gdotaccent
+}
+
+:gs {	g
+	gbreve
+	gcircumflex
+	gdotaccent
+}
+
+:gsc {	g.sc
+	gbreve.sc
+	gcircumflex.sc
+	gdotaccent.sc
+}
+
+:Js {	J
+	Jcircumflex
+}
+
+:jsc {	j.sc
+	jcircumflex.sc
+}
+
+:Ks {	K
+	uni0136
+}
+
+:ks {	k
+	uni0137
+	kgreenlandic
+}
+
+:ksc {	k.sc
+	uni0137.sc
+}
+
+:L1 {	L
+	Lacute
+}
+
+:lsc1 {	l.sc
+	lacute.sc
+}
+
+:L2 {	Ldot
+	Lslash
+}
+
+:lsc2 {	ldot.sc
+	lslah.sc
+}
+
+:Ls {	L1
+	L2
+}
+
+:Os {	O
+	Oacute
+	Obreve
+	Ocircumflex
+	Odieresis
+	Ograve
+	Ohungarumlaut
+	Omacron
+	Otilde
+}
+
+:periOs {	Os
+	OE
+	Ohorn
+}
+
+:Ss {	S
+	Sacute
+	Scaron
+	Scedilla
+	Scircumflex
+}
+
+:Round {	B
+	D
+	Dcaron
+	Dcroat
+	Eng
+	Eth
+	Os
+	Q
+	Ss
+}
+
+:os {	o
+	oacute
+	obreve
+	ocircumflex
+	odieresis
+	oe
+	ograve
+	ohungarumlaut
+	omacron
+	otilde
+}
+
+:perios {	os
+	ohorn
+}
+
+:osc {	o.sc
+	oacute.sc
+	obreve.sc
+	ocircumflex.sc
+	odieresis.sc
+	ograve.sc
+	ohungarumlaut.sc
+	omacron.sc
+	otilde.sc
+}
+
+:periosc {	osc
+	oe.sc
+	ohorn.sc
+}
+
+:ss {	s
+	sacute
+	scaron
+	scedilla
+	scircumflex
+}
+
+:ssc {	s.sc
+	sacute.sc
+	scaron.sc
+	scedilla.sc
+	scircumflex.sc
+}
+
+:roundsc {	b.sc
+	d.sc
+	dcaron.sc
+	dcroat.sc
+	eng.sc
+	eth.sc
+	osc
+	q.sc
+	ssc
+}
+
+:Rs {	R
+	Racute
+	Rcaron
+}
+
+:rs {	r
+	racute
+	rcaron
+}
+
+:rsc {	r.sc
+	racute.sc
+	rcaron.sc
+}
+
+:Ts {	T
+	Tcaron
+}
+
+:ts {	t
+	tcaron
+}
+
+:tsc {	t.sc
+	tcaron.sc
+}
+
+:Ws {	W
+	Wcircumflex
+}
+
+:ws {	w
+	wcircumflex
+}
+
+:wsc {	w.sc
+	wcircumflex.sc
+}
+
+:Ys {	Y
+	Yacute
+	Ycircumflex
+	Ydieresis
+}
+
+:ys {	y
+	yacute
+	ycircumflex
+	ydieresis
+}
+
+:ysc {	y.sc
+	yacute.sc
+	ycircumflex.sc
+	ydieresis.sc
+}
+
+:Zs {	Z
+	Zacute
+	Zcaron
+	Zdotaccent
+}
+
+:zs {	z
+	zacute
+	zcaron
+	zdotaccent
+}
+
+:zsc {	z.sc
+	zacute.sc
+	zcaron.sc
+	zdotaccent.sc
+}
+
+:Horns {	Ohorn
+	Uhorn
+}
+
+:horns {	ohorn
+	uhorn
+}
+
+:hornsc {	ohorn.sc
+	uhorn.sc
+}
+
+:periCs {	Cs
+	Gs
+	periOs
+	Q
+}
+
+:perics {	cs
+	ds
+	es
+	eth
+	gs
+	perios
+	q
+}
+
+:pericsc {	csc
+	gsc
+	periosc
+	q.sc
+}
+
+:dashes {	emdash
+	endash
+}
+
+:periods {	ellipsis
+	period
+}
+
+:commas {	comma
+	periods
+}
+
+:quotes {	quotesingle
+	quotedbl
+}
+
+:upperquotes {	quoteleft
+	quoteright
+	quotereversed
+	quotedblleft
+	quotedblright
+	uni201F
+}
+
+:lowerquotes {	quotesinglbase
+	quotedblbase
+}
+
+:spaces {	space
+	uni00A0
+}
+
+:round {	b
+	es
+	eth
+	os
+	p
+	ss
+}
+
+:carons {	dcaron
+	lcaron
+}
+
+:CG {	Cs
+	Gs
+}
+
+:cgsc {	csc
+	gsc
+}
+
+~As [
+       -41  Cs
+       -47  perics
+       -50  csc
+       -46  f
+      -100  florin
+       -43  Gs
+       -27  gs
+       -43  Hbar
+       -47  hbar
+       -45  hbar.sc
+       -71  jcircumflex
+       -33  jsc
+       -53  oe
+       -19  oslash
+       -50  osc
+       -10  oslash.sc
+       -50  q.sc
+       -39  Ss
+       -42  ss
+       -43  ssc
+      -155  Ts
+       -77  ts
+      -119  tsc
+      -118  Tbar
+       -64  tbar
+      -116  tbar.sc
+      -156  V
+      -157  v
+      -126  v.sc
+      -156  Ws
+      -112  ws
+      -110  wsc
+       -17  X
+       -13  x
+       -28  x.sc
+      -186  Ys
+      -109  ys
+      -159  ysc
+       -17  Zs
+        -2  zs
+        -6  ampersand
+      -103  asciicircum
+      -141  asterisk
+      -135  backslash
+      -199  one
+      -136  question
+      -116  quotes
+      -142  upperquotes
+]
+
+~Aogonek [
+       -10  florin
+        -7  jcircumflex
+       -69  ys
+]
+
+~as [
+       -90  florin
+       -61  jcircumflex
+       -67  Ts
+       -33  ts
+       -74  Tbar
+       -11  tbar
+       -74  V
+       -46  v
+       -67  Ws
+       -32  ws
+       -82  Ys
+       -43  ys
+       -65  asterisk
+       -39  backslash
+       -12  question
+       -41  quotes
+       -40  upperquotes
+]
+
+~aogonek [
+         0  florin
+       -21  jcircumflex
+]
+
+~asc [
+       -30  csc
+      -123  florin
+       -30  gsc
+       -25  hbar.sc
+       -30  osc
+       -35  oe.sc
+       -35  q.sc
+      -135  tsc
+      -119  tbar.sc
+      -130  v.sc
+      -120  wsc
+      -150  ysc
+      -157  upperquotes
+]
+
+~Round [
+       -43  As
+       -60  AE
+      -110  florin
+       -48  V
+       -33  Ws
+       -66  Ys
+       -53  upperquotes
+]
+
+~round [
+       -32  As
+       -43  AE
+      -107  florin
+      -111  Ts
+       -56  Tbar
+       -62  V
+       -26  v
+       -49  Ws
+       -24  ws
+       -17  X
+       -35  x
+      -104  Ys
+       -26  ys
+       -35  upperquotes
+]
+
+~roundsc [
+       -27  asc
+       -37  ae.sc
+       -89  florin
+       -47  v.sc
+       -37  wsc
+       -63  ysc
+       -45  upperquotes
+]
+
+~carons [
+       -51  perias
+       -51  perics
+       -35  oslash
+       -51  ss
+]
+
+~CG [
+       -43  As
+       -75  AE
+       -47  asc
+       -63  ae.sc
+      -140  florin
+       -37  jcircumflex
+       -53  Ts
+       -53  Tbar
+       -57  V
+       -23  v.sc
+       -47  Ws
+       -29  wsc
+       -67  X
+       -57  x.sc
+       -87  Ys
+       -61  ysc
+       -43  Zs
+       -43  zsc
+       -29  upperquotes
+]
+
+~cs [
+       -97  florin
+       -79  jcircumflex
+       -37  v
+       -29  ws
+       -37  x
+       -31  ys
+       -33  upperquotes
+]
+
+~cgsc [
+       -29  asc
+       -43  ae.sc
+      -101  florin
+       -31  ysc
+       -40  upperquotes
+]
+
+~Eogonek [
+        55  j
+]
+
+~F [
+      -122  periAs
+       -68  perias
+       -60  florin
+      -179  commas
+]
+
+~f [
+       -34  as
+       -37  perics
+      -143  florin
+       -35  x
+       -54  ampersand
+]
+
+~florin [
+      -162  florin
+]
+
+~f.sc [
+       -92  asc
+      -129  florin
+      -145  commas
+]
+
+~Ks [
+       -50  perias
+       -50  perics
+      -145  florin
+      -118  v
+      -118  ws
+       -20  x
+      -116  ys
+       -53  dashes
+      -140  hyphen
+       -46  upperquotes
+]
+
+~ks [
+       -40  perias
+       -40  perics
+       -61  florin
+       -36  v
+       -36  ws
+       -20  x
+       -20  ys
+       -99  hyphen
+]
+
+~ksc [
+      -110  florin
+       -53  dashes
+      -140  hyphen
+       -33  upperquotes
+]
+
+~kgreenlandic.sc [
+       -99  periAs
+       -89  periasc
+      -127  jsc
+       -15  Zs
+       -75  commas
+      -173  hyphen
+       -95  dashes
+]
+
+~Ls [
+       -77  periCs
+      -133  florin
+       -44  OE
+       -24  Oslash
+      -161  Ts
+      -161  Tbar
+      -149  V
+      -148  Ws
+      -135  backslash
+      -160  question
+      -211  upperquotes
+]
+
+~L1 [
+      -241  Ys
+      -246  asterisk
+      -189  quotes
+]
+
+~L2 [
+      -201  Ys
+      -139  asterisk
+      -136  quotes
+]
+
+~Lcaron [
+       -74  periCs
+      -133  florin
+       -41  OE
+       -14  Oslash
+      -121  Ts
+      -121  Tbar
+      -119  V
+      -128  Ws
+      -121  Ys
+      -119  asterisk
+       -94  backslash
+       -94  question
+       -93  quotes
+       -71  upperquotes
+]
+
+~Horns [
+      -152  florin
+      -112  Js
+]
+
+~horns [
+       -82  florin
+]
+
+~hornsc [
+       -97  florin
+       -64  jsc
+]
+
+~P [
+      -116  As
+      -167  AE
+       -40  perias
+      -132  periasc
+       -40  perics
+       -39  pericsc
+       -48  V
+       -37  v
+       -17  v.sc
+       -33  Ws
+       -31  ws
+       -16  wsc
+       -40  x
+       -66  Ys
+       -25  ys
+       -17  ysc
+       -37  zs
+      -223  commas
+]
+
+~p.sc [
+      -116  asc
+      -140  ae.sc
+      -115  florin
+       -48  v.sc
+       -33  wsc
+       -46  ysc
+      -170  commas
+]
+
+~Rs [
+       -30  As
+       -33  AE
+       -28  perias
+       -15  periasc
+       -57  cs
+       -57  ds
+       -71  es
+       -44  f
+      -132  florin
+       -44  gs
+       -69  perios
+       -57  q
+      -107  V
+       -60  v
+       -58  v.sc
+      -106  Ws
+       -69  ws
+       -63  wsc
+       -34  x
+      -119  Ys
+       -72  ys
+       -69  ysc
+       -91  hyphen
+       -60  upperquotes
+]
+
+~rs [
+      -117  As
+      -138  AE
+       -48  perias
+       -48  perics
+      -132  florin
+       -30  v.sc
+       -35  Ws
+       -17  wsc
+       -19  x
+       -56  x.sc
+       -19  ys
+       -33  ysc
+]
+
+~r [
+      -121  Ts
+       -87  V
+      -121  X
+       -34  x
+      -113  Ys
+       -46  ysc
+]
+
+~racute [
+       -74  Ts
+       -67  V
+       -19  v.sc
+       -88  X
+       -53  Ys
+       -20  V
+]
+
+~rcaron [
+       -34  Ts
+       -34  v.sc
+       -35  Ws
+         0  w.sc
+       -41  X
+       -26  Ys
+]
+
+~rsc [
+       -94  florin
+       -67  v.sc
+       -53  wsc
+       -67  ysc
+       -91  hyphen
+       -40  upperquotes
+]
+
+~Ts [
+      -171  As
+      -227  AE
+      -137  as
+      -145  ae
+      -142  asc
+      -215  ae.sc
+      -137  perics
+       -75  f
+      -195  florin
+      -207  Js
+      -166  jsc
+       -78  periOs
+      -127  periosc
+       -50  Ss
+       -95  ssc
+      -207  v
+       -47  Ws
+      -178  ws
+       -60  X
+      -195  x
+       -23  x.sc
+       -53  Ys
+      -139  ys
+       -72  Zs
+      -149  zs
+       -63  zsc
+      -102  ampersand
+      -112  asciicircum
+      -116  at
+      -148  commas
+      -204  hyphen
+       -33  upperquotes
+]
+
+~t [
+       -17  as
+       -35  ae
+       -96  florin
+       -23  jcircumflex
+       -74  V
+       -27  v.sc
+       -41  Ws
+       -33  wsc
+       -74  Ys
+       -36  ysc
+       -99  hyphen
+]
+
+~tcaron [
+       -77  perias
+       -23  periCs
+       -77  perics
+       -29  pericsc
+       -18  f
+      -140  florin
+       -77  g
+      -103  J
+       -35  jsc
+       -34  Ss
+       -19  ssc
+       -21  V
+       -21  v
+       -33  Ws
+       -47  ws
+       -47  X
+       -40  x
+       -33  Zs
+       -34  zs
+       -68  ampersand
+       -45  asciicircum
+       -36  at
+       -43  commas
+      -183  hyphen
+]
+
+~tsc [
+      -144  asc
+      -180  ae.sc
+      -139  florin
+      -147  jsc
+       -18  pericsc
+       -30  ssc
+       -20  wsc
+       -33  x.sc
+       -13  ysc
+       -39  zsc
+       -62  ampersand
+       -32  asciicircum
+      -148  commas
+      -191  hyphen
+]
+
+~V [
+      -183  As
+      -213  AE
+      -117  perias
+       -97  perics
+       -75  f
+      -195  florin
+      -125  Js
+       -74  periCs
+       -79  Oslash
+      -103  perics
+      -110  oslash
+       -62  Ss
+       -69  ss
+       -60  v
+       -65  ws
+       -60  X
+       -82  x
+       -42  x.sc
+       -26  Ys
+       -20  ys
+       -72  Zs
+       -82  zs
+       -43  zsc
+      -109  ampersand
+       -69  asciicircum
+       -96  at
+      -171  commas
+      -165  hyphen
+]
+
+~v [
+      -130  periAs
+       -44  perias
+      -112  periasc
+       -36  perics
+      -122  florin
+       -72  Js
+       -83  jsc
+       -35  oslash
+       -36  ss
+      -123  Ts
+       -42  V
+       -25  Ws
+       -80  X
+       -29  x
+       -39  x.sc
+       -79  Ys
+       -23  ysc
+       -52  Zs
+       -27  zs
+       -56  ampersand
+       -27  asciicircum
+       -23  at
+       -84  commas
+       -92  hyphen
+]
+
+~v.sc [
+      -150  asc
+      -194  ae.sc
+      -136  florin
+      -125  jsc
+       -54  pericsc
+       -52  oslash.sc
+       -35  ssc
+       -33  x.sc
+       -17  ysc
+       -25  zsc
+       -82  ampersand
+       -42  asciicircum
+       -56  at
+      -124  commas
+      -105  hyphen
+]
+
+~Ws [
+      -150  As
+      -174  AE
+       -77  perias
+      -106  asc
+      -152  ae.sc
+       -43  periCs
+       -77  perics
+       -38  pericsc
+       -28  f
+      -168  florin
+      -105  Js
+      -125  jsc
+       -52  Oslash
+       -70  oslash
+       -64  oslash.sc
+       -35  Ss
+       -63  ss
+       -68  ssc
+       -54  v
+       -31  ws
+       -53  X
+       -55  x
+       -41  x.sc
+       -19  Ys
+       -40  ys
+       -27  ysc
+       -59  Zs
+       -62  zs
+       -50  zsc
+       -96  ampersand
+       -69  asciicircum
+       -83  at
+      -111  commas
+      -132  hyphen
+       -20  upperquotes
+]
+
+~ws [
+      -103  As
+      -125  AE
+       -31  perias
+       -30  perics
+      -122  florin
+       -65  J
+       -29  oslash
+       -29  ss
+      -136  Ts
+       -69  V
+       -52  Ws
+       -93  X
+       -29  x
+       -79  Ys
+       -52  Zs
+       -17  zs
+       -42  ampersand
+       -15  asciicircum
+       -36  at
+       -71  commas
+      -125  hyphen
+]
+
+~wsc [
+      -130  asc
+      -141  ae.sc
+      -140  florin
+       -98  jsc
+       -34  pericsc
+       -33  oslash.sc
+       -48  ssc
+       -33  x.sc
+       -10  ysc
+       -25  zsc
+       -69  ampersand
+       -49  asciicircum
+       -36  at
+       -77  commas
+       -98  hyphen
+]
+
+~X [
+       -39  perics
+       -47  f
+      -110  florin
+       -66  perios
+       -26  oslash
+       -52  ts
+       -84  v
+       -37  v.sc
+       -87  ws
+       -48  wsc
+      -105  ys
+       -58  ysc
+       -42  ampersand
+       -90  asciicircum
+       -43  at
+      -156  hyphen
+       -33  upperquotes
+]
+
+~x [
+       -19  perics
+       -77  florin
+       -18  oslash
+       -15  ts
+       -22  ampersand
+       -43  asciicircum
+       -89  hyphen
+]
+
+~x.sc [
+       -72  florin
+       -29  ampersand
+       -43  asciicircum
+       -30  at
+      -102  hyphen
+]
+
+~Ys [
+      -196  As
+      -257  AE
+      -134  as
+      -172  ae
+      -145  perics
+      -115  cs
+      -135  es
+      -197  florin
+      -142  os
+      -144  oslash
+      -116  ampersand
+       -95  asciicircum
+      -129  at
+      -180  commas
+      -129  hyphen
+       -33  upperquotes
+]
+
+~ys [
+      -136  periAs
+       -35  perias
+       -35  perics
+      -105  florin
+       -34  oslash
+       -49  ampersand
+       -15  asciicircum
+       -60  commas
+       -95  hyphen
+]
+
+~ysc [
+      -167  asc
+      -154  acircumflex.sc
+      -211  ae.sc
+      -116  florin
+       -76  ampersand
+       -68  asciicircum
+       -56  at
+      -140  commas
+      -129  hyphen
+]
+
+~Zs [
+       -27  periCs
+       -33  perics
+       -34  pericsc
+       -42  f
+      -109  florin
+       -35  oslash
+       -22  q
+       -27  Ss
+       -27  ss
+       -19  ssc
+       -34  ts
+       -27  v
+       -15  ws
+       -17  Ys
+       -15  ys
+       -15  ysc
+       -23  asciitilde
+       -15  at
+       -80  hyphen
+]
+
+~zs [
+       -17  perics
+       -36  es
+       -76  florin
+       -16  oslash
+       -17  ss
+       -15  ts
+       -15  v
+       -15  ws
+       -57  Ys
+       -15  ys
+       -28  ysc
+       -73  hyphen
+]
+
+~zsc [
+       -27  pericsc
+       -69  florin
+       -27  ssc
+       -17  ysc
+       -23  asciitilde
+       -27  at
+       -87  hyphen
+]
+
+~ampersand [
+       -49  periCs
+       -56  perics
+       -50  pericsc
+       -69  f
+      -156  florin
+       -50  g
+       -78  jcircumflex
+       -49  perios
+       -53  Ss
+       -54  ss
+       -47  ssc
+      -177  Ts
+       -86  ts
+      -132  tsc
+      -157  V
+      -115  v
+      -112  v.sc
+      -121  Ws
+       -99  ws
+      -102  wsc
+      -128  asterisk
+       -86  backslash
+       -80  hyphen
+]
+
+~asciicircum [
+       -62  periAs
+       -65  periasc
+      -132  Js
+       -15  jcircumflex
+      -169  jsc
+       -57  Ts
+       -79  V
+       -33  v.sc
+       -43  Ws
+       -30  wsc
+       -80  X
+       -70  x.sc
+       -78  Ys
+       -35  ysc
+       -64  Zs
+       -41  zsc
+]
+
+~lowerquotes [
+       -40  periAs
+       -49  perias
+       -60  periasc
+      -113  periCs
+       -67  perics
+      -116  pericsc
+       -93  f
+       -47  florin
+       -40  gs
+       -52  Js
+       -52  jsc
+       -73  Ss
+       -74  ss
+       -77  ssc
+      -179  Ts
+       -88  ts
+      -176  tsc
+      -205  V
+      -173  v
+      -173  v.sc
+      -133  Ws
+      -135  ws
+      -136  wsc
+       -33  X
+       -34  x
+       -40  x.sc
+      -204  Ys
+       -34  ys
+      -178  ysc
+       -47  Zs
+       -53  zs
+       -33  zsc
+       -28  ampersand
+       -33  at
+       -43  hyphen
+       -46  spaces
+]
+
+~upperquotes [
+      -182  periAs
+       -73  perias
+      -159  asc
+      -179  ae.sc
+       -37  periCs
+       -55  perics
+       -40  pericsc
+      -117  florin
+      -214  Js
+      -163  jsc
+       -53  Ss
+       -53  ss
+       -53  ssc
+       -48  X
+       -40  x
+       -53  x.sc
+       -60  Ys
+       -40  ys
+       -40  ysc
+       -69  Zs
+       -40  zs
+       -60  zsc
+       -23  asciitilde
+       -96  ampersand
+       -34  at
+       -60  hyphen
+       -46  spaces
+]
+
+~periods [
+      -160  Ts
+      -117  tsc
+      -170  V
+      -122  v.sc
+      -103  Ws
+       -65  ws
+      -102  backslash
+        83  periods
+]
+
