@@ -89,13 +89,13 @@ fonts embeded, so it can be viewed on any system.
 
 ### About the fonts
 
-I drew all the glyphs is _Affinity Designer_ and created the fonts using the
+I drew all the glyphs in _Affinity Designer_ and created the fonts using the
 popular FontForge software. Unfortunately, I suspect FF was not made with
 creating a series of synchronized fonts in mind. It was not too hard to make
 the different font outlines, but kerning them identically was a major headache.
 
 To deal with that, I had to strip all kerning from the FontForge files, export
-the fonts to the [Unified Font Objects](https://unifiedfontobject.org)
+the fonts to the [Unified Font Object](https://unifiedfontobject.org)
 format, then create a `kerning.plist` file and place it into each of the UFO
 fonts, then import that to FontForge and have it create the fonts.
 
