@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="2">
+  <advance width="286"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="18" y="665" type="curve" smooth="yes"/>
+      <point x="18" y="760" type="line" smooth="yes"/>
+      <point x="18" y="783"/>
+      <point x="37" y="802"/>
+      <point x="60" y="802" type="curve" smooth="yes"/>
+      <point x="155" y="802" type="line" smooth="yes"/>
+      <point x="178" y="802"/>
+      <point x="197" y="784"/>
+      <point x="197" y="761" type="curve" smooth="yes"/>
+      <point x="197" y="760" type="line" smooth="yes"/>
+      <point x="197" y="665" type="line" smooth="yes"/>
+      <point x="197" y="655"/>
+      <point x="193" y="647"/>
+      <point x="188" y="640" type="curve" smooth="yes"/>
+      <point x="189" y="636"/>
+      <point x="190" y="631"/>
+      <point x="190" y="626" type="curve" smooth="yes"/>
+      <point x="190" y="0" type="line" smooth="yes"/>
+      <point x="190" y="-23"/>
+      <point x="171" y="-42"/>
+      <point x="148" y="-42" type="curve" smooth="yes"/>
+      <point x="66" y="-42" type="line" smooth="yes"/>
+      <point x="43" y="-42"/>
+      <point x="24" y="-23"/>
+      <point x="24" y="0" type="curve" smooth="yes"/>
+      <point x="24" y="626" type="line" smooth="yes"/>
+      <point x="24" y="631"/>
+      <point x="25" y="636"/>
+      <point x="26" y="640" type="curve" smooth="yes"/>
+      <point x="21" y="647"/>
+      <point x="18" y="656"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>18</integer>
+            <key>width</key>
+            <integer>179</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>24</integer>
+            <key>width</key>
+            <integer>166</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
