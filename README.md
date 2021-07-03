@@ -109,6 +109,13 @@ your own kerning).
 The `jadro` compiler is available from
 [https://github.com/Pantarheon/jadro](https://github.com/Pantarheon/jadro).
 
+### Video Titles
+
+The `Open Air` fonts can be used to create interesting video titles. Here is
+just one example:
+
+[![Video Titles](https://img.youtube.com/vi/YxTCLMaiRCw/0.jpg)](https://www.youtube.com/watch?v=YxTCLMaiRCw)
+
 _G. Adam Stanislav_
 
 
