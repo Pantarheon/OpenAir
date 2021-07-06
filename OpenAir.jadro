@@ -5,6 +5,7 @@
 	Acircumflex
 	Adieresis
 	Agrave
+	Amacron
 	Aogonek
 	Aring
 	Atilde
@@ -20,6 +21,7 @@
 	acircumflex
 	adieresis
 	agrave
+	amacron
 	aogonek
 	aring
 	atilde
@@ -35,6 +37,7 @@
 	acircumflex.sc
 	adieresis.sc
 	agrave.sc
+	amacron.sc
 	aogonek.sc
 	aring.sc
 	atilde.sc
@@ -416,7 +419,7 @@
        -39  Ss
        -42  ss
        -43  ssc
-      -155  Ts
+      -179  Ts
        -77  ts
       -119  tsc
       -118  Tbar
