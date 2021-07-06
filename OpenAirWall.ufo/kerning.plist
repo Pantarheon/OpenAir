@@ -104,9 +104,9 @@
 		<key>scedilla.sc</key><integer>-43</integer>
 		<key>scircumflex</key><integer>-42</integer>
 		<key>scircumflex.sc</key><integer>-43</integer>
-		<key>T</key><integer>-155</integer>
+		<key>T</key><integer>-179</integer>
 		<key>Tbar</key><integer>-118</integer>
-		<key>Tcaron</key><integer>-155</integer>
+		<key>Tcaron</key><integer>-179</integer>
 		<key>t</key><integer>-77</integer>
 		<key>t.sc</key><integer>-119</integer>
 		<key>tbar</key><integer>-64</integer>
@@ -249,9 +249,9 @@
 		<key>scedilla.sc</key><integer>-43</integer>
 		<key>scircumflex</key><integer>-42</integer>
 		<key>scircumflex.sc</key><integer>-43</integer>
-		<key>T</key><integer>-155</integer>
+		<key>T</key><integer>-179</integer>
 		<key>Tbar</key><integer>-118</integer>
-		<key>Tcaron</key><integer>-155</integer>
+		<key>Tcaron</key><integer>-179</integer>
 		<key>t</key><integer>-77</integer>
 		<key>t.sc</key><integer>-119</integer>
 		<key>tbar</key><integer>-64</integer>
@@ -394,9 +394,9 @@
 		<key>scedilla.sc</key><integer>-43</integer>
 		<key>scircumflex</key><integer>-42</integer>
 		<key>scircumflex.sc</key><integer>-43</integer>
-		<key>T</key><integer>-155</integer>
+		<key>T</key><integer>-179</integer>
 		<key>Tbar</key><integer>-118</integer>
-		<key>Tcaron</key><integer>-155</integer>
+		<key>Tcaron</key><integer>-179</integer>
 		<key>t</key><integer>-77</integer>
 		<key>t.sc</key><integer>-119</integer>
 		<key>tbar</key><integer>-64</integer>
@@ -539,9 +539,9 @@
 		<key>scedilla.sc</key><integer>-43</integer>
 		<key>scircumflex</key><integer>-42</integer>
 		<key>scircumflex.sc</key><integer>-43</integer>
-		<key>T</key><integer>-155</integer>
+		<key>T</key><integer>-179</integer>
 		<key>Tbar</key><integer>-118</integer>
-		<key>Tcaron</key><integer>-155</integer>
+		<key>Tcaron</key><integer>-179</integer>
 		<key>t</key><integer>-77</integer>
 		<key>t.sc</key><integer>-119</integer>
 		<key>tbar</key><integer>-64</integer>
@@ -684,9 +684,9 @@
 		<key>scedilla.sc</key><integer>-43</integer>
 		<key>scircumflex</key><integer>-42</integer>
 		<key>scircumflex.sc</key><integer>-43</integer>
-		<key>T</key><integer>-155</integer>
+		<key>T</key><integer>-179</integer>
 		<key>Tbar</key><integer>-118</integer>
-		<key>Tcaron</key><integer>-155</integer>
+		<key>Tcaron</key><integer>-179</integer>
 		<key>t</key><integer>-77</integer>
 		<key>t.sc</key><integer>-119</integer>
 		<key>tbar</key><integer>-64</integer>
@@ -829,9 +829,154 @@
 		<key>scedilla.sc</key><integer>-43</integer>
 		<key>scircumflex</key><integer>-42</integer>
 		<key>scircumflex.sc</key><integer>-43</integer>
-		<key>T</key><integer>-155</integer>
+		<key>T</key><integer>-179</integer>
 		<key>Tbar</key><integer>-118</integer>
-		<key>Tcaron</key><integer>-155</integer>
+		<key>Tcaron</key><integer>-179</integer>
+		<key>t</key><integer>-77</integer>
+		<key>t.sc</key><integer>-119</integer>
+		<key>tbar</key><integer>-64</integer>
+		<key>tbar.sc</key><integer>-116</integer>
+		<key>tcaron</key><integer>-77</integer>
+		<key>tcaron.sc</key><integer>-119</integer>
+		<key>uni201F</key><integer>-142</integer>
+		<key>V</key><integer>-156</integer>
+		<key>v</key><integer>-157</integer>
+		<key>v.sc</key><integer>-126</integer>
+		<key>W</key><integer>-156</integer>
+		<key>Wcircumflex</key><integer>-156</integer>
+		<key>w</key><integer>-112</integer>
+		<key>w.sc</key><integer>-110</integer>
+		<key>wcircumflex</key><integer>-112</integer>
+		<key>wcircumflex.sc</key><integer>-110</integer>
+		<key>X</key><integer>-17</integer>
+		<key>x</key><integer>-13</integer>
+		<key>x.sc</key><integer>-28</integer>
+		<key>Y</key><integer>-186</integer>
+		<key>Yacute</key><integer>-186</integer>
+		<key>Ycircumflex</key><integer>-186</integer>
+		<key>Ydieresis</key><integer>-186</integer>
+		<key>y</key><integer>-109</integer>
+		<key>y.sc</key><integer>-159</integer>
+		<key>yacute</key><integer>-109</integer>
+		<key>yacute.sc</key><integer>-159</integer>
+		<key>ycircumflex</key><integer>-109</integer>
+		<key>ycircumflex.sc</key><integer>-159</integer>
+		<key>ydieresis</key><integer>-109</integer>
+		<key>ydieresis.sc</key><integer>-159</integer>
+		<key>Z</key><integer>-17</integer>
+		<key>Zacute</key><integer>-17</integer>
+		<key>Zcaron</key><integer>-17</integer>
+		<key>Zdotaccent</key><integer>-17</integer>
+		<key>z</key><integer>-2</integer>
+		<key>zacute</key><integer>-2</integer>
+		<key>zcaron</key><integer>-2</integer>
+		<key>zdotaccent</key><integer>-2</integer>
+	</dict>
+	<key>Amacron</key>
+	<dict>
+		<key>ampersand</key><integer>-6</integer>
+		<key>asciicircum</key><integer>-103</integer>
+		<key>asterisk</key><integer>-141</integer>
+		<key>backslash</key><integer>-135</integer>
+		<key>C</key><integer>-41</integer>
+		<key>Cacute</key><integer>-41</integer>
+		<key>Ccaron</key><integer>-41</integer>
+		<key>Ccedilla</key><integer>-41</integer>
+		<key>Ccircumflex</key><integer>-41</integer>
+		<key>Cdotaccent</key><integer>-41</integer>
+		<key>c</key><integer>-47</integer>
+		<key>c.sc</key><integer>-50</integer>
+		<key>cacute</key><integer>-47</integer>
+		<key>cacute.sc</key><integer>-50</integer>
+		<key>ccaron</key><integer>-47</integer>
+		<key>ccaron.sc</key><integer>-50</integer>
+		<key>ccedilla</key><integer>-47</integer>
+		<key>ccedilla.sc</key><integer>-50</integer>
+		<key>ccircumflex</key><integer>-47</integer>
+		<key>ccircumflex.sc</key><integer>-50</integer>
+		<key>cdotaccent</key><integer>-47</integer>
+		<key>cdotaccent.sc</key><integer>-50</integer>
+		<key>d</key><integer>-47</integer>
+		<key>dcaron</key><integer>-47</integer>
+		<key>dcroat</key><integer>-47</integer>
+		<key>e</key><integer>-47</integer>
+		<key>eacute</key><integer>-47</integer>
+		<key>ebreve</key><integer>-47</integer>
+		<key>ecaron</key><integer>-47</integer>
+		<key>ecircumflex</key><integer>-47</integer>
+		<key>edieresis</key><integer>-47</integer>
+		<key>edotaccent</key><integer>-47</integer>
+		<key>egrave</key><integer>-47</integer>
+		<key>emacron</key><integer>-47</integer>
+		<key>eogonek</key><integer>-47</integer>
+		<key>eth</key><integer>-47</integer>
+		<key>f</key><integer>-46</integer>
+		<key>florin</key><integer>-100</integer>
+		<key>G</key><integer>-43</integer>
+		<key>Gbreve</key><integer>-43</integer>
+		<key>Gcircumflex</key><integer>-43</integer>
+		<key>Gdotaccent</key><integer>-43</integer>
+		<key>g</key><integer>-27</integer>
+		<key>gbreve</key><integer>-27</integer>
+		<key>gcircumflex</key><integer>-27</integer>
+		<key>gdotaccent</key><integer>-27</integer>
+		<key>Hbar</key><integer>-43</integer>
+		<key>hbar</key><integer>-47</integer>
+		<key>hbar.sc</key><integer>-45</integer>
+		<key>j.sc</key><integer>-33</integer>
+		<key>jcircumflex</key><integer>-71</integer>
+		<key>jcircumflex.sc</key><integer>-33</integer>
+		<key>o</key><integer>-47</integer>
+		<key>o.sc</key><integer>-50</integer>
+		<key>oacute</key><integer>-47</integer>
+		<key>oacute.sc</key><integer>-50</integer>
+		<key>obreve</key><integer>-47</integer>
+		<key>obreve.sc</key><integer>-50</integer>
+		<key>ocircumflex</key><integer>-47</integer>
+		<key>ocircumflex.sc</key><integer>-50</integer>
+		<key>odieresis</key><integer>-47</integer>
+		<key>odieresis.sc</key><integer>-50</integer>
+		<key>oe</key><integer>-53</integer>
+		<key>ograve</key><integer>-47</integer>
+		<key>ograve.sc</key><integer>-50</integer>
+		<key>ohorn</key><integer>-47</integer>
+		<key>ohungarumlaut</key><integer>-47</integer>
+		<key>ohungarumlaut.sc</key><integer>-50</integer>
+		<key>omacron</key><integer>-47</integer>
+		<key>omacron.sc</key><integer>-50</integer>
+		<key>one</key><integer>-199</integer>
+		<key>oslash</key><integer>-19</integer>
+		<key>oslash.sc</key><integer>-10</integer>
+		<key>otilde</key><integer>-47</integer>
+		<key>otilde.sc</key><integer>-50</integer>
+		<key>q</key><integer>-47</integer>
+		<key>q.sc</key><integer>-50</integer>
+		<key>question</key><integer>-136</integer>
+		<key>quotedbl</key><integer>-116</integer>
+		<key>quotedblleft</key><integer>-142</integer>
+		<key>quotedblright</key><integer>-142</integer>
+		<key>quoteleft</key><integer>-142</integer>
+		<key>quotereversed</key><integer>-142</integer>
+		<key>quoteright</key><integer>-142</integer>
+		<key>quotesingle</key><integer>-116</integer>
+		<key>S</key><integer>-39</integer>
+		<key>Sacute</key><integer>-39</integer>
+		<key>Scaron</key><integer>-39</integer>
+		<key>Scedilla</key><integer>-39</integer>
+		<key>Scircumflex</key><integer>-39</integer>
+		<key>s</key><integer>-42</integer>
+		<key>s.sc</key><integer>-43</integer>
+		<key>sacute</key><integer>-42</integer>
+		<key>sacute.sc</key><integer>-43</integer>
+		<key>scaron</key><integer>-42</integer>
+		<key>scaron.sc</key><integer>-43</integer>
+		<key>scedilla</key><integer>-42</integer>
+		<key>scedilla.sc</key><integer>-43</integer>
+		<key>scircumflex</key><integer>-42</integer>
+		<key>scircumflex.sc</key><integer>-43</integer>
+		<key>T</key><integer>-179</integer>
+		<key>Tbar</key><integer>-118</integer>
+		<key>Tcaron</key><integer>-179</integer>
 		<key>t</key><integer>-77</integer>
 		<key>t.sc</key><integer>-119</integer>
 		<key>tbar</key><integer>-64</integer>
@@ -974,9 +1119,9 @@
 		<key>scedilla.sc</key><integer>-43</integer>
 		<key>scircumflex</key><integer>-42</integer>
 		<key>scircumflex.sc</key><integer>-43</integer>
-		<key>T</key><integer>-155</integer>
+		<key>T</key><integer>-179</integer>
 		<key>Tbar</key><integer>-118</integer>
-		<key>Tcaron</key><integer>-155</integer>
+		<key>Tcaron</key><integer>-179</integer>
 		<key>t</key><integer>-77</integer>
 		<key>t.sc</key><integer>-119</integer>
 		<key>tbar</key><integer>-64</integer>
@@ -1119,9 +1264,9 @@
 		<key>scedilla.sc</key><integer>-43</integer>
 		<key>scircumflex</key><integer>-42</integer>
 		<key>scircumflex.sc</key><integer>-43</integer>
-		<key>T</key><integer>-155</integer>
+		<key>T</key><integer>-179</integer>
 		<key>Tbar</key><integer>-118</integer>
-		<key>Tcaron</key><integer>-155</integer>
+		<key>Tcaron</key><integer>-179</integer>
 		<key>t</key><integer>-77</integer>
 		<key>t.sc</key><integer>-119</integer>
 		<key>tbar</key><integer>-64</integer>
@@ -1264,9 +1409,9 @@
 		<key>scedilla.sc</key><integer>-43</integer>
 		<key>scircumflex</key><integer>-42</integer>
 		<key>scircumflex.sc</key><integer>-43</integer>
-		<key>T</key><integer>-155</integer>
+		<key>T</key><integer>-179</integer>
 		<key>Tbar</key><integer>-118</integer>
-		<key>Tcaron</key><integer>-155</integer>
+		<key>Tcaron</key><integer>-179</integer>
 		<key>t</key><integer>-77</integer>
 		<key>t.sc</key><integer>-119</integer>
 		<key>tbar</key><integer>-64</integer>
@@ -1775,6 +1920,84 @@
 		<key>ycircumflex.sc</key><integer>-150</integer>
 		<key>ydieresis.sc</key><integer>-150</integer>
 	</dict>
+	<key>amacron</key>
+	<dict>
+		<key>asterisk</key><integer>-65</integer>
+		<key>backslash</key><integer>-39</integer>
+		<key>florin</key><integer>-90</integer>
+		<key>jcircumflex</key><integer>-61</integer>
+		<key>question</key><integer>-12</integer>
+		<key>quotedbl</key><integer>-41</integer>
+		<key>quotedblleft</key><integer>-40</integer>
+		<key>quotedblright</key><integer>-40</integer>
+		<key>quoteleft</key><integer>-40</integer>
+		<key>quotereversed</key><integer>-40</integer>
+		<key>quoteright</key><integer>-40</integer>
+		<key>quotesingle</key><integer>-41</integer>
+		<key>T</key><integer>-67</integer>
+		<key>Tbar</key><integer>-74</integer>
+		<key>Tcaron</key><integer>-67</integer>
+		<key>t</key><integer>-33</integer>
+		<key>tbar</key><integer>-11</integer>
+		<key>tcaron</key><integer>-33</integer>
+		<key>uni201F</key><integer>-40</integer>
+		<key>V</key><integer>-74</integer>
+		<key>v</key><integer>-46</integer>
+		<key>W</key><integer>-67</integer>
+		<key>Wcircumflex</key><integer>-67</integer>
+		<key>w</key><integer>-32</integer>
+		<key>wcircumflex</key><integer>-32</integer>
+		<key>Y</key><integer>-82</integer>
+		<key>Yacute</key><integer>-82</integer>
+		<key>Ycircumflex</key><integer>-82</integer>
+		<key>Ydieresis</key><integer>-82</integer>
+		<key>y</key><integer>-43</integer>
+		<key>yacute</key><integer>-43</integer>
+		<key>ycircumflex</key><integer>-43</integer>
+		<key>ydieresis</key><integer>-43</integer>
+	</dict>
+	<key>amacron.sc</key>
+	<dict>
+		<key>c.sc</key><integer>-30</integer>
+		<key>cacute.sc</key><integer>-30</integer>
+		<key>ccaron.sc</key><integer>-30</integer>
+		<key>ccedilla.sc</key><integer>-30</integer>
+		<key>ccircumflex.sc</key><integer>-30</integer>
+		<key>cdotaccent.sc</key><integer>-30</integer>
+		<key>florin</key><integer>-123</integer>
+		<key>g.sc</key><integer>-30</integer>
+		<key>gbreve.sc</key><integer>-30</integer>
+		<key>gcircumflex.sc</key><integer>-30</integer>
+		<key>gdotaccent.sc</key><integer>-30</integer>
+		<key>hbar.sc</key><integer>-25</integer>
+		<key>o.sc</key><integer>-30</integer>
+		<key>oacute.sc</key><integer>-30</integer>
+		<key>obreve.sc</key><integer>-30</integer>
+		<key>ocircumflex.sc</key><integer>-30</integer>
+		<key>odieresis.sc</key><integer>-30</integer>
+		<key>oe.sc</key><integer>-35</integer>
+		<key>ograve.sc</key><integer>-30</integer>
+		<key>ohungarumlaut.sc</key><integer>-30</integer>
+		<key>omacron.sc</key><integer>-30</integer>
+		<key>otilde.sc</key><integer>-30</integer>
+		<key>q.sc</key><integer>-35</integer>
+		<key>quotedblleft</key><integer>-157</integer>
+		<key>quotedblright</key><integer>-157</integer>
+		<key>quoteleft</key><integer>-157</integer>
+		<key>quotereversed</key><integer>-157</integer>
+		<key>quoteright</key><integer>-157</integer>
+		<key>t.sc</key><integer>-135</integer>
+		<key>tbar.sc</key><integer>-119</integer>
+		<key>tcaron.sc</key><integer>-135</integer>
+		<key>uni201F</key><integer>-157</integer>
+		<key>v.sc</key><integer>-130</integer>
+		<key>w.sc</key><integer>-120</integer>
+		<key>wcircumflex.sc</key><integer>-120</integer>
+		<key>y.sc</key><integer>-150</integer>
+		<key>yacute.sc</key><integer>-150</integer>
+		<key>ycircumflex.sc</key><integer>-150</integer>
+		<key>ydieresis.sc</key><integer>-150</integer>
+	</dict>
 	<key>ampersand</key>
 	<dict>
 		<key>asterisk</key><integer>-128</integer>
@@ -2059,6 +2282,7 @@
 		<key>Adieresis</key><integer>-62</integer>
 		<key>AE</key><integer>-62</integer>
 		<key>Agrave</key><integer>-62</integer>
+		<key>Amacron</key><integer>-62</integer>
 		<key>Aogonek</key><integer>-62</integer>
 		<key>Aring</key><integer>-62</integer>
 		<key>Atilde</key><integer>-62</integer>
@@ -2069,6 +2293,7 @@
 		<key>adieresis.sc</key><integer>-65</integer>
 		<key>ae.sc</key><integer>-65</integer>
 		<key>agrave.sc</key><integer>-65</integer>
+		<key>amacron.sc</key><integer>-65</integer>
 		<key>aogonek.sc</key><integer>-65</integer>
 		<key>aring.sc</key><integer>-65</integer>
 		<key>atilde.sc</key><integer>-65</integer>
@@ -2191,6 +2416,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -2220,6 +2446,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -2259,6 +2486,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -2290,6 +2518,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-75</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -2300,6 +2529,7 @@
 		<key>adieresis.sc</key><integer>-47</integer>
 		<key>ae.sc</key><integer>-63</integer>
 		<key>agrave.sc</key><integer>-47</integer>
+		<key>amacron.sc</key><integer>-47</integer>
 		<key>aogonek.sc</key><integer>-47</integer>
 		<key>aring.sc</key><integer>-47</integer>
 		<key>atilde.sc</key><integer>-47</integer>
@@ -2348,6 +2578,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-75</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -2358,6 +2589,7 @@
 		<key>adieresis.sc</key><integer>-47</integer>
 		<key>ae.sc</key><integer>-63</integer>
 		<key>agrave.sc</key><integer>-47</integer>
+		<key>amacron.sc</key><integer>-47</integer>
 		<key>aogonek.sc</key><integer>-47</integer>
 		<key>aring.sc</key><integer>-47</integer>
 		<key>atilde.sc</key><integer>-47</integer>
@@ -2406,6 +2638,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-75</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -2416,6 +2649,7 @@
 		<key>adieresis.sc</key><integer>-47</integer>
 		<key>ae.sc</key><integer>-63</integer>
 		<key>agrave.sc</key><integer>-47</integer>
+		<key>amacron.sc</key><integer>-47</integer>
 		<key>aogonek.sc</key><integer>-47</integer>
 		<key>aring.sc</key><integer>-47</integer>
 		<key>atilde.sc</key><integer>-47</integer>
@@ -2464,6 +2698,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-75</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -2474,6 +2709,7 @@
 		<key>adieresis.sc</key><integer>-47</integer>
 		<key>ae.sc</key><integer>-63</integer>
 		<key>agrave.sc</key><integer>-47</integer>
+		<key>amacron.sc</key><integer>-47</integer>
 		<key>aogonek.sc</key><integer>-47</integer>
 		<key>aring.sc</key><integer>-47</integer>
 		<key>atilde.sc</key><integer>-47</integer>
@@ -2522,6 +2758,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-75</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -2532,6 +2769,7 @@
 		<key>adieresis.sc</key><integer>-47</integer>
 		<key>ae.sc</key><integer>-63</integer>
 		<key>agrave.sc</key><integer>-47</integer>
+		<key>amacron.sc</key><integer>-47</integer>
 		<key>aogonek.sc</key><integer>-47</integer>
 		<key>aring.sc</key><integer>-47</integer>
 		<key>atilde.sc</key><integer>-47</integer>
@@ -2580,6 +2818,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-75</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -2590,6 +2829,7 @@
 		<key>adieresis.sc</key><integer>-47</integer>
 		<key>ae.sc</key><integer>-63</integer>
 		<key>agrave.sc</key><integer>-47</integer>
+		<key>amacron.sc</key><integer>-47</integer>
 		<key>aogonek.sc</key><integer>-47</integer>
 		<key>aring.sc</key><integer>-47</integer>
 		<key>atilde.sc</key><integer>-47</integer>
@@ -2657,6 +2897,7 @@
 		<key>adieresis.sc</key><integer>-29</integer>
 		<key>ae.sc</key><integer>-43</integer>
 		<key>agrave.sc</key><integer>-29</integer>
+		<key>amacron.sc</key><integer>-29</integer>
 		<key>aogonek.sc</key><integer>-29</integer>
 		<key>aring.sc</key><integer>-29</integer>
 		<key>atilde.sc</key><integer>-29</integer>
@@ -2700,6 +2941,7 @@
 		<key>adieresis.sc</key><integer>-29</integer>
 		<key>ae.sc</key><integer>-43</integer>
 		<key>agrave.sc</key><integer>-29</integer>
+		<key>amacron.sc</key><integer>-29</integer>
 		<key>aogonek.sc</key><integer>-29</integer>
 		<key>aring.sc</key><integer>-29</integer>
 		<key>atilde.sc</key><integer>-29</integer>
@@ -2743,6 +2985,7 @@
 		<key>adieresis.sc</key><integer>-29</integer>
 		<key>ae.sc</key><integer>-43</integer>
 		<key>agrave.sc</key><integer>-29</integer>
+		<key>amacron.sc</key><integer>-29</integer>
 		<key>aogonek.sc</key><integer>-29</integer>
 		<key>aring.sc</key><integer>-29</integer>
 		<key>atilde.sc</key><integer>-29</integer>
@@ -2786,6 +3029,7 @@
 		<key>adieresis.sc</key><integer>-29</integer>
 		<key>ae.sc</key><integer>-43</integer>
 		<key>agrave.sc</key><integer>-29</integer>
+		<key>amacron.sc</key><integer>-29</integer>
 		<key>aogonek.sc</key><integer>-29</integer>
 		<key>aring.sc</key><integer>-29</integer>
 		<key>atilde.sc</key><integer>-29</integer>
@@ -2829,6 +3073,7 @@
 		<key>adieresis.sc</key><integer>-29</integer>
 		<key>ae.sc</key><integer>-43</integer>
 		<key>agrave.sc</key><integer>-29</integer>
+		<key>amacron.sc</key><integer>-29</integer>
 		<key>aogonek.sc</key><integer>-29</integer>
 		<key>aring.sc</key><integer>-29</integer>
 		<key>atilde.sc</key><integer>-29</integer>
@@ -2872,6 +3117,7 @@
 		<key>adieresis.sc</key><integer>-29</integer>
 		<key>ae.sc</key><integer>-43</integer>
 		<key>agrave.sc</key><integer>-29</integer>
+		<key>amacron.sc</key><integer>-29</integer>
 		<key>aogonek.sc</key><integer>-29</integer>
 		<key>aring.sc</key><integer>-29</integer>
 		<key>atilde.sc</key><integer>-29</integer>
@@ -2896,6 +3142,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -2923,6 +3170,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -2950,6 +3198,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -2977,6 +3226,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -3004,6 +3254,7 @@
 		<key>adieresis</key><integer>-51</integer>
 		<key>ae</key><integer>-51</integer>
 		<key>agrave</key><integer>-51</integer>
+		<key>amacron</key><integer>-51</integer>
 		<key>aogonek</key><integer>-51</integer>
 		<key>aring</key><integer>-51</integer>
 		<key>atilde</key><integer>-51</integer>
@@ -3059,6 +3310,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -3086,6 +3338,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -3113,6 +3366,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -3144,6 +3398,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -3171,6 +3426,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -3210,6 +3466,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -3249,6 +3506,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -3288,6 +3546,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -3327,6 +3586,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -3366,6 +3626,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -3405,6 +3666,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -3444,6 +3706,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -3499,6 +3762,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -3538,6 +3802,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -3565,6 +3830,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -3604,6 +3870,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -3643,6 +3910,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -3670,6 +3938,7 @@
 		<key>Adieresis</key><integer>-122</integer>
 		<key>AE</key><integer>-122</integer>
 		<key>Agrave</key><integer>-122</integer>
+		<key>Amacron</key><integer>-122</integer>
 		<key>Aogonek</key><integer>-122</integer>
 		<key>Aring</key><integer>-122</integer>
 		<key>Atilde</key><integer>-122</integer>
@@ -3680,6 +3949,7 @@
 		<key>adieresis</key><integer>-68</integer>
 		<key>ae</key><integer>-68</integer>
 		<key>agrave</key><integer>-68</integer>
+		<key>amacron</key><integer>-68</integer>
 		<key>aogonek</key><integer>-68</integer>
 		<key>aring</key><integer>-68</integer>
 		<key>atilde</key><integer>-68</integer>
@@ -3696,6 +3966,7 @@
 		<key>acircumflex</key><integer>-34</integer>
 		<key>adieresis</key><integer>-34</integer>
 		<key>agrave</key><integer>-34</integer>
+		<key>amacron</key><integer>-34</integer>
 		<key>ampersand</key><integer>-54</integer>
 		<key>aogonek</key><integer>-34</integer>
 		<key>aring</key><integer>-34</integer>
@@ -3747,6 +4018,7 @@
 		<key>acircumflex.sc</key><integer>-92</integer>
 		<key>adieresis.sc</key><integer>-92</integer>
 		<key>agrave.sc</key><integer>-92</integer>
+		<key>amacron.sc</key><integer>-92</integer>
 		<key>aogonek.sc</key><integer>-92</integer>
 		<key>aring.sc</key><integer>-92</integer>
 		<key>atilde.sc</key><integer>-92</integer>
@@ -3768,6 +4040,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-75</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -3778,6 +4051,7 @@
 		<key>adieresis.sc</key><integer>-47</integer>
 		<key>ae.sc</key><integer>-63</integer>
 		<key>agrave.sc</key><integer>-47</integer>
+		<key>amacron.sc</key><integer>-47</integer>
 		<key>aogonek.sc</key><integer>-47</integer>
 		<key>aring.sc</key><integer>-47</integer>
 		<key>atilde.sc</key><integer>-47</integer>
@@ -3826,6 +4100,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-75</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -3836,6 +4111,7 @@
 		<key>adieresis.sc</key><integer>-47</integer>
 		<key>ae.sc</key><integer>-63</integer>
 		<key>agrave.sc</key><integer>-47</integer>
+		<key>amacron.sc</key><integer>-47</integer>
 		<key>aogonek.sc</key><integer>-47</integer>
 		<key>aring.sc</key><integer>-47</integer>
 		<key>atilde.sc</key><integer>-47</integer>
@@ -3884,6 +4160,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-75</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -3894,6 +4171,7 @@
 		<key>adieresis.sc</key><integer>-47</integer>
 		<key>ae.sc</key><integer>-63</integer>
 		<key>agrave.sc</key><integer>-47</integer>
+		<key>amacron.sc</key><integer>-47</integer>
 		<key>aogonek.sc</key><integer>-47</integer>
 		<key>aring.sc</key><integer>-47</integer>
 		<key>atilde.sc</key><integer>-47</integer>
@@ -3942,6 +4220,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-75</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -3952,6 +4231,7 @@
 		<key>adieresis.sc</key><integer>-47</integer>
 		<key>ae.sc</key><integer>-63</integer>
 		<key>agrave.sc</key><integer>-47</integer>
+		<key>amacron.sc</key><integer>-47</integer>
 		<key>aogonek.sc</key><integer>-47</integer>
 		<key>aring.sc</key><integer>-47</integer>
 		<key>atilde.sc</key><integer>-47</integer>
@@ -4000,6 +4280,7 @@
 		<key>adieresis.sc</key><integer>-29</integer>
 		<key>ae.sc</key><integer>-43</integer>
 		<key>agrave.sc</key><integer>-29</integer>
+		<key>amacron.sc</key><integer>-29</integer>
 		<key>aogonek.sc</key><integer>-29</integer>
 		<key>aring.sc</key><integer>-29</integer>
 		<key>atilde.sc</key><integer>-29</integer>
@@ -4024,6 +4305,7 @@
 		<key>adieresis.sc</key><integer>-29</integer>
 		<key>ae.sc</key><integer>-43</integer>
 		<key>agrave.sc</key><integer>-29</integer>
+		<key>amacron.sc</key><integer>-29</integer>
 		<key>aogonek.sc</key><integer>-29</integer>
 		<key>aring.sc</key><integer>-29</integer>
 		<key>atilde.sc</key><integer>-29</integer>
@@ -4048,6 +4330,7 @@
 		<key>adieresis.sc</key><integer>-29</integer>
 		<key>ae.sc</key><integer>-43</integer>
 		<key>agrave.sc</key><integer>-29</integer>
+		<key>amacron.sc</key><integer>-29</integer>
 		<key>aogonek.sc</key><integer>-29</integer>
 		<key>aring.sc</key><integer>-29</integer>
 		<key>atilde.sc</key><integer>-29</integer>
@@ -4072,6 +4355,7 @@
 		<key>adieresis.sc</key><integer>-29</integer>
 		<key>ae.sc</key><integer>-43</integer>
 		<key>agrave.sc</key><integer>-29</integer>
+		<key>amacron.sc</key><integer>-29</integer>
 		<key>aogonek.sc</key><integer>-29</integer>
 		<key>aring.sc</key><integer>-29</integer>
 		<key>atilde.sc</key><integer>-29</integer>
@@ -4096,6 +4380,7 @@
 		<key>adieresis</key><integer>-50</integer>
 		<key>ae</key><integer>-50</integer>
 		<key>agrave</key><integer>-50</integer>
+		<key>amacron</key><integer>-50</integer>
 		<key>aogonek</key><integer>-50</integer>
 		<key>aring</key><integer>-50</integer>
 		<key>atilde</key><integer>-50</integer>
@@ -4163,6 +4448,7 @@
 		<key>adieresis</key><integer>-40</integer>
 		<key>ae</key><integer>-40</integer>
 		<key>agrave</key><integer>-40</integer>
+		<key>amacron</key><integer>-40</integer>
 		<key>aogonek</key><integer>-40</integer>
 		<key>aring</key><integer>-40</integer>
 		<key>atilde</key><integer>-40</integer>
@@ -4235,6 +4521,7 @@
 		<key>adieresis</key><integer>-40</integer>
 		<key>ae</key><integer>-40</integer>
 		<key>agrave</key><integer>-40</integer>
+		<key>amacron</key><integer>-40</integer>
 		<key>aogonek</key><integer>-40</integer>
 		<key>aring</key><integer>-40</integer>
 		<key>atilde</key><integer>-40</integer>
@@ -4294,6 +4581,7 @@
 		<key>Adieresis</key><integer>-99</integer>
 		<key>AE</key><integer>-99</integer>
 		<key>Agrave</key><integer>-99</integer>
+		<key>Amacron</key><integer>-99</integer>
 		<key>Aogonek</key><integer>-99</integer>
 		<key>Aring</key><integer>-99</integer>
 		<key>Atilde</key><integer>-99</integer>
@@ -4304,6 +4592,7 @@
 		<key>adieresis.sc</key><integer>-89</integer>
 		<key>ae.sc</key><integer>-89</integer>
 		<key>agrave.sc</key><integer>-89</integer>
+		<key>amacron.sc</key><integer>-89</integer>
 		<key>aogonek.sc</key><integer>-89</integer>
 		<key>aring.sc</key><integer>-89</integer>
 		<key>atilde.sc</key><integer>-89</integer>
@@ -4569,6 +4858,7 @@
 		<key>adieresis</key><integer>-51</integer>
 		<key>ae</key><integer>-51</integer>
 		<key>agrave</key><integer>-51</integer>
+		<key>amacron</key><integer>-51</integer>
 		<key>aogonek</key><integer>-51</integer>
 		<key>aring</key><integer>-51</integer>
 		<key>atilde</key><integer>-51</integer>
@@ -4624,6 +4914,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -4651,6 +4942,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -4678,6 +4970,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -4705,6 +4998,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -4732,6 +5026,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -4759,6 +5054,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -4792,6 +5088,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -4819,6 +5116,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -4846,6 +5144,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -4873,6 +5172,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -4912,6 +5212,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -4939,6 +5240,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -4978,6 +5280,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -5005,6 +5308,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -5044,6 +5348,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -5071,6 +5376,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -5110,6 +5416,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -5137,6 +5444,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -5176,6 +5484,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -5203,6 +5512,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -5242,6 +5552,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -5281,6 +5592,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -5318,6 +5630,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -5357,6 +5670,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -5384,6 +5698,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -5423,6 +5738,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -5450,6 +5766,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -5489,6 +5806,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -5516,6 +5834,7 @@
 		<key>Adieresis</key><integer>-116</integer>
 		<key>AE</key><integer>-167</integer>
 		<key>Agrave</key><integer>-116</integer>
+		<key>Amacron</key><integer>-116</integer>
 		<key>Aogonek</key><integer>-116</integer>
 		<key>Aring</key><integer>-116</integer>
 		<key>Atilde</key><integer>-116</integer>
@@ -5533,6 +5852,8 @@
 		<key>ae.sc</key><integer>-132</integer>
 		<key>agrave</key><integer>-40</integer>
 		<key>agrave.sc</key><integer>-132</integer>
+		<key>amacron</key><integer>-40</integer>
+		<key>amacron.sc</key><integer>-132</integer>
 		<key>aogonek</key><integer>-40</integer>
 		<key>aogonek.sc</key><integer>-132</integer>
 		<key>aring</key><integer>-40</integer>
@@ -5638,6 +5959,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -5677,6 +5999,7 @@
 		<key>adieresis.sc</key><integer>-116</integer>
 		<key>ae.sc</key><integer>-140</integer>
 		<key>agrave.sc</key><integer>-116</integer>
+		<key>amacron.sc</key><integer>-116</integer>
 		<key>aogonek.sc</key><integer>-116</integer>
 		<key>aring.sc</key><integer>-116</integer>
 		<key>atilde.sc</key><integer>-116</integer>
@@ -5719,6 +6042,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -5746,6 +6070,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -5773,6 +6098,7 @@
 		<key>Adieresis</key><integer>-40</integer>
 		<key>AE</key><integer>-40</integer>
 		<key>Agrave</key><integer>-40</integer>
+		<key>Amacron</key><integer>-40</integer>
 		<key>Aogonek</key><integer>-40</integer>
 		<key>Aring</key><integer>-40</integer>
 		<key>Atilde</key><integer>-40</integer>
@@ -5790,6 +6116,8 @@
 		<key>ae.sc</key><integer>-60</integer>
 		<key>agrave</key><integer>-49</integer>
 		<key>agrave.sc</key><integer>-60</integer>
+		<key>amacron</key><integer>-49</integer>
+		<key>amacron.sc</key><integer>-60</integer>
 		<key>ampersand</key><integer>-28</integer>
 		<key>aogonek</key><integer>-49</integer>
 		<key>aogonek.sc</key><integer>-60</integer>
@@ -5954,6 +6282,7 @@
 		<key>Adieresis</key><integer>-182</integer>
 		<key>AE</key><integer>-182</integer>
 		<key>Agrave</key><integer>-182</integer>
+		<key>Amacron</key><integer>-182</integer>
 		<key>Aogonek</key><integer>-182</integer>
 		<key>Aring</key><integer>-182</integer>
 		<key>Atilde</key><integer>-182</integer>
@@ -5971,6 +6300,8 @@
 		<key>ae.sc</key><integer>-179</integer>
 		<key>agrave</key><integer>-73</integer>
 		<key>agrave.sc</key><integer>-159</integer>
+		<key>amacron</key><integer>-73</integer>
+		<key>amacron.sc</key><integer>-159</integer>
 		<key>ampersand</key><integer>-96</integer>
 		<key>aogonek</key><integer>-73</integer>
 		<key>aogonek.sc</key><integer>-159</integer>
@@ -6120,6 +6451,7 @@
 		<key>Adieresis</key><integer>-182</integer>
 		<key>AE</key><integer>-182</integer>
 		<key>Agrave</key><integer>-182</integer>
+		<key>Amacron</key><integer>-182</integer>
 		<key>Aogonek</key><integer>-182</integer>
 		<key>Aring</key><integer>-182</integer>
 		<key>Atilde</key><integer>-182</integer>
@@ -6137,6 +6469,8 @@
 		<key>ae.sc</key><integer>-179</integer>
 		<key>agrave</key><integer>-73</integer>
 		<key>agrave.sc</key><integer>-159</integer>
+		<key>amacron</key><integer>-73</integer>
+		<key>amacron.sc</key><integer>-159</integer>
 		<key>ampersand</key><integer>-96</integer>
 		<key>aogonek</key><integer>-73</integer>
 		<key>aogonek.sc</key><integer>-159</integer>
@@ -6286,6 +6620,7 @@
 		<key>Adieresis</key><integer>-182</integer>
 		<key>AE</key><integer>-182</integer>
 		<key>Agrave</key><integer>-182</integer>
+		<key>Amacron</key><integer>-182</integer>
 		<key>Aogonek</key><integer>-182</integer>
 		<key>Aring</key><integer>-182</integer>
 		<key>Atilde</key><integer>-182</integer>
@@ -6303,6 +6638,8 @@
 		<key>ae.sc</key><integer>-179</integer>
 		<key>agrave</key><integer>-73</integer>
 		<key>agrave.sc</key><integer>-159</integer>
+		<key>amacron</key><integer>-73</integer>
+		<key>amacron.sc</key><integer>-159</integer>
 		<key>ampersand</key><integer>-96</integer>
 		<key>aogonek</key><integer>-73</integer>
 		<key>aogonek.sc</key><integer>-159</integer>
@@ -6452,6 +6789,7 @@
 		<key>Adieresis</key><integer>-182</integer>
 		<key>AE</key><integer>-182</integer>
 		<key>Agrave</key><integer>-182</integer>
+		<key>Amacron</key><integer>-182</integer>
 		<key>Aogonek</key><integer>-182</integer>
 		<key>Aring</key><integer>-182</integer>
 		<key>Atilde</key><integer>-182</integer>
@@ -6469,6 +6807,8 @@
 		<key>ae.sc</key><integer>-179</integer>
 		<key>agrave</key><integer>-73</integer>
 		<key>agrave.sc</key><integer>-159</integer>
+		<key>amacron</key><integer>-73</integer>
+		<key>amacron.sc</key><integer>-159</integer>
 		<key>ampersand</key><integer>-96</integer>
 		<key>aogonek</key><integer>-73</integer>
 		<key>aogonek.sc</key><integer>-159</integer>
@@ -6618,6 +6958,7 @@
 		<key>Adieresis</key><integer>-182</integer>
 		<key>AE</key><integer>-182</integer>
 		<key>Agrave</key><integer>-182</integer>
+		<key>Amacron</key><integer>-182</integer>
 		<key>Aogonek</key><integer>-182</integer>
 		<key>Aring</key><integer>-182</integer>
 		<key>Atilde</key><integer>-182</integer>
@@ -6635,6 +6976,8 @@
 		<key>ae.sc</key><integer>-179</integer>
 		<key>agrave</key><integer>-73</integer>
 		<key>agrave.sc</key><integer>-159</integer>
+		<key>amacron</key><integer>-73</integer>
+		<key>amacron.sc</key><integer>-159</integer>
 		<key>ampersand</key><integer>-96</integer>
 		<key>aogonek</key><integer>-73</integer>
 		<key>aogonek.sc</key><integer>-159</integer>
@@ -6784,6 +7127,7 @@
 		<key>Adieresis</key><integer>-40</integer>
 		<key>AE</key><integer>-40</integer>
 		<key>Agrave</key><integer>-40</integer>
+		<key>Amacron</key><integer>-40</integer>
 		<key>Aogonek</key><integer>-40</integer>
 		<key>Aring</key><integer>-40</integer>
 		<key>Atilde</key><integer>-40</integer>
@@ -6801,6 +7145,8 @@
 		<key>ae.sc</key><integer>-60</integer>
 		<key>agrave</key><integer>-49</integer>
 		<key>agrave.sc</key><integer>-60</integer>
+		<key>amacron</key><integer>-49</integer>
+		<key>amacron.sc</key><integer>-60</integer>
 		<key>ampersand</key><integer>-28</integer>
 		<key>aogonek</key><integer>-49</integer>
 		<key>aogonek.sc</key><integer>-60</integer>
@@ -6965,6 +7311,7 @@
 		<key>Adieresis</key><integer>-30</integer>
 		<key>AE</key><integer>-33</integer>
 		<key>Agrave</key><integer>-30</integer>
+		<key>Amacron</key><integer>-30</integer>
 		<key>Aogonek</key><integer>-30</integer>
 		<key>Aring</key><integer>-30</integer>
 		<key>Atilde</key><integer>-30</integer>
@@ -6982,6 +7329,8 @@
 		<key>ae.sc</key><integer>-15</integer>
 		<key>agrave</key><integer>-28</integer>
 		<key>agrave.sc</key><integer>-15</integer>
+		<key>amacron</key><integer>-28</integer>
+		<key>amacron.sc</key><integer>-15</integer>
 		<key>aogonek</key><integer>-28</integer>
 		<key>aogonek.sc</key><integer>-15</integer>
 		<key>aring</key><integer>-28</integer>
@@ -7066,6 +7415,7 @@
 		<key>Adieresis</key><integer>-30</integer>
 		<key>AE</key><integer>-33</integer>
 		<key>Agrave</key><integer>-30</integer>
+		<key>Amacron</key><integer>-30</integer>
 		<key>Aogonek</key><integer>-30</integer>
 		<key>Aring</key><integer>-30</integer>
 		<key>Atilde</key><integer>-30</integer>
@@ -7083,6 +7433,8 @@
 		<key>ae.sc</key><integer>-15</integer>
 		<key>agrave</key><integer>-28</integer>
 		<key>agrave.sc</key><integer>-15</integer>
+		<key>amacron</key><integer>-28</integer>
+		<key>amacron.sc</key><integer>-15</integer>
 		<key>aogonek</key><integer>-28</integer>
 		<key>aogonek.sc</key><integer>-15</integer>
 		<key>aring</key><integer>-28</integer>
@@ -7167,6 +7519,7 @@
 		<key>Adieresis</key><integer>-30</integer>
 		<key>AE</key><integer>-33</integer>
 		<key>Agrave</key><integer>-30</integer>
+		<key>Amacron</key><integer>-30</integer>
 		<key>Aogonek</key><integer>-30</integer>
 		<key>Aring</key><integer>-30</integer>
 		<key>Atilde</key><integer>-30</integer>
@@ -7184,6 +7537,8 @@
 		<key>ae.sc</key><integer>-15</integer>
 		<key>agrave</key><integer>-28</integer>
 		<key>agrave.sc</key><integer>-15</integer>
+		<key>amacron</key><integer>-28</integer>
+		<key>amacron.sc</key><integer>-15</integer>
 		<key>aogonek</key><integer>-28</integer>
 		<key>aogonek.sc</key><integer>-15</integer>
 		<key>aring</key><integer>-28</integer>
@@ -7268,6 +7623,7 @@
 		<key>Adieresis</key><integer>-117</integer>
 		<key>AE</key><integer>-138</integer>
 		<key>Agrave</key><integer>-117</integer>
+		<key>Amacron</key><integer>-117</integer>
 		<key>Aogonek</key><integer>-117</integer>
 		<key>Aring</key><integer>-117</integer>
 		<key>Atilde</key><integer>-117</integer>
@@ -7278,6 +7634,7 @@
 		<key>adieresis</key><integer>-48</integer>
 		<key>ae</key><integer>-48</integer>
 		<key>agrave</key><integer>-48</integer>
+		<key>amacron</key><integer>-48</integer>
 		<key>aogonek</key><integer>-48</integer>
 		<key>aring</key><integer>-48</integer>
 		<key>atilde</key><integer>-48</integer>
@@ -7373,6 +7730,7 @@
 		<key>Adieresis</key><integer>-117</integer>
 		<key>AE</key><integer>-138</integer>
 		<key>Agrave</key><integer>-117</integer>
+		<key>Amacron</key><integer>-117</integer>
 		<key>Aogonek</key><integer>-117</integer>
 		<key>Aring</key><integer>-117</integer>
 		<key>Atilde</key><integer>-117</integer>
@@ -7383,6 +7741,7 @@
 		<key>adieresis</key><integer>-48</integer>
 		<key>ae</key><integer>-48</integer>
 		<key>agrave</key><integer>-48</integer>
+		<key>amacron</key><integer>-48</integer>
 		<key>aogonek</key><integer>-48</integer>
 		<key>aring</key><integer>-48</integer>
 		<key>atilde</key><integer>-48</integer>
@@ -7478,6 +7837,7 @@
 		<key>Adieresis</key><integer>-117</integer>
 		<key>AE</key><integer>-138</integer>
 		<key>Agrave</key><integer>-117</integer>
+		<key>Amacron</key><integer>-117</integer>
 		<key>Aogonek</key><integer>-117</integer>
 		<key>Aring</key><integer>-117</integer>
 		<key>Atilde</key><integer>-117</integer>
@@ -7488,6 +7848,7 @@
 		<key>adieresis</key><integer>-48</integer>
 		<key>ae</key><integer>-48</integer>
 		<key>agrave</key><integer>-48</integer>
+		<key>amacron</key><integer>-48</integer>
 		<key>aogonek</key><integer>-48</integer>
 		<key>aring</key><integer>-48</integer>
 		<key>atilde</key><integer>-48</integer>
@@ -7582,6 +7943,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -7609,6 +7971,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -7636,6 +7999,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -7663,6 +8027,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -7690,6 +8055,7 @@
 		<key>Adieresis</key><integer>-43</integer>
 		<key>AE</key><integer>-60</integer>
 		<key>Agrave</key><integer>-43</integer>
+		<key>Amacron</key><integer>-43</integer>
 		<key>Aogonek</key><integer>-43</integer>
 		<key>Aring</key><integer>-43</integer>
 		<key>Atilde</key><integer>-43</integer>
@@ -7717,6 +8083,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -7756,6 +8123,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -7783,6 +8151,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -7822,6 +8191,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -7849,6 +8219,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -7888,6 +8259,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -7915,6 +8287,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -7954,6 +8327,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -7981,6 +8355,7 @@
 		<key>Adieresis</key><integer>-32</integer>
 		<key>AE</key><integer>-43</integer>
 		<key>Agrave</key><integer>-32</integer>
+		<key>Amacron</key><integer>-32</integer>
 		<key>Aogonek</key><integer>-32</integer>
 		<key>Aring</key><integer>-32</integer>
 		<key>Atilde</key><integer>-32</integer>
@@ -8020,6 +8395,7 @@
 		<key>adieresis.sc</key><integer>-27</integer>
 		<key>ae.sc</key><integer>-37</integer>
 		<key>agrave.sc</key><integer>-27</integer>
+		<key>amacron.sc</key><integer>-27</integer>
 		<key>aogonek.sc</key><integer>-27</integer>
 		<key>aring.sc</key><integer>-27</integer>
 		<key>atilde.sc</key><integer>-27</integer>
@@ -8047,6 +8423,7 @@
 		<key>Adieresis</key><integer>-171</integer>
 		<key>AE</key><integer>-227</integer>
 		<key>Agrave</key><integer>-171</integer>
+		<key>Amacron</key><integer>-171</integer>
 		<key>Aogonek</key><integer>-171</integer>
 		<key>Aring</key><integer>-171</integer>
 		<key>Atilde</key><integer>-171</integer>
@@ -8064,6 +8441,8 @@
 		<key>ae.sc</key><integer>-215</integer>
 		<key>agrave</key><integer>-137</integer>
 		<key>agrave.sc</key><integer>-142</integer>
+		<key>amacron</key><integer>-137</integer>
+		<key>amacron.sc</key><integer>-142</integer>
 		<key>ampersand</key><integer>-102</integer>
 		<key>aogonek</key><integer>-137</integer>
 		<key>aogonek.sc</key><integer>-142</integer>
@@ -8195,6 +8574,7 @@
 		<key>Adieresis</key><integer>-171</integer>
 		<key>AE</key><integer>-227</integer>
 		<key>Agrave</key><integer>-171</integer>
+		<key>Amacron</key><integer>-171</integer>
 		<key>Aogonek</key><integer>-171</integer>
 		<key>Aring</key><integer>-171</integer>
 		<key>Atilde</key><integer>-171</integer>
@@ -8212,6 +8592,8 @@
 		<key>ae.sc</key><integer>-215</integer>
 		<key>agrave</key><integer>-137</integer>
 		<key>agrave.sc</key><integer>-142</integer>
+		<key>amacron</key><integer>-137</integer>
+		<key>amacron.sc</key><integer>-142</integer>
 		<key>ampersand</key><integer>-102</integer>
 		<key>aogonek</key><integer>-137</integer>
 		<key>aogonek.sc</key><integer>-142</integer>
@@ -8343,6 +8725,7 @@
 		<key>adieresis</key><integer>-17</integer>
 		<key>ae</key><integer>-35</integer>
 		<key>agrave</key><integer>-17</integer>
+		<key>amacron</key><integer>-17</integer>
 		<key>aogonek</key><integer>-17</integer>
 		<key>aring</key><integer>-17</integer>
 		<key>atilde</key><integer>-17</integer>
@@ -8373,6 +8756,7 @@
 		<key>adieresis.sc</key><integer>-144</integer>
 		<key>ae.sc</key><integer>-180</integer>
 		<key>agrave.sc</key><integer>-144</integer>
+		<key>amacron.sc</key><integer>-144</integer>
 		<key>ampersand</key><integer>-62</integer>
 		<key>aogonek.sc</key><integer>-144</integer>
 		<key>aring.sc</key><integer>-144</integer>
@@ -8433,6 +8817,7 @@
 		<key>adieresis</key><integer>-77</integer>
 		<key>ae</key><integer>-77</integer>
 		<key>agrave</key><integer>-77</integer>
+		<key>amacron</key><integer>-77</integer>
 		<key>ampersand</key><integer>-68</integer>
 		<key>aogonek</key><integer>-77</integer>
 		<key>aring</key><integer>-77</integer>
@@ -8564,6 +8949,7 @@
 		<key>adieresis.sc</key><integer>-144</integer>
 		<key>ae.sc</key><integer>-180</integer>
 		<key>agrave.sc</key><integer>-144</integer>
+		<key>amacron.sc</key><integer>-144</integer>
 		<key>ampersand</key><integer>-62</integer>
 		<key>aogonek.sc</key><integer>-144</integer>
 		<key>aring.sc</key><integer>-144</integer>
@@ -8640,6 +9026,7 @@
 		<key>adieresis</key><integer>-50</integer>
 		<key>ae</key><integer>-50</integer>
 		<key>agrave</key><integer>-50</integer>
+		<key>amacron</key><integer>-50</integer>
 		<key>aogonek</key><integer>-50</integer>
 		<key>aring</key><integer>-50</integer>
 		<key>atilde</key><integer>-50</integer>
@@ -8707,6 +9094,7 @@
 		<key>adieresis</key><integer>-40</integer>
 		<key>ae</key><integer>-40</integer>
 		<key>agrave</key><integer>-40</integer>
+		<key>amacron</key><integer>-40</integer>
 		<key>aogonek</key><integer>-40</integer>
 		<key>aring</key><integer>-40</integer>
 		<key>atilde</key><integer>-40</integer>
@@ -8779,6 +9167,7 @@
 		<key>Adieresis</key><integer>-182</integer>
 		<key>AE</key><integer>-182</integer>
 		<key>Agrave</key><integer>-182</integer>
+		<key>Amacron</key><integer>-182</integer>
 		<key>Aogonek</key><integer>-182</integer>
 		<key>Aring</key><integer>-182</integer>
 		<key>Atilde</key><integer>-182</integer>
@@ -8796,6 +9185,8 @@
 		<key>ae.sc</key><integer>-179</integer>
 		<key>agrave</key><integer>-73</integer>
 		<key>agrave.sc</key><integer>-159</integer>
+		<key>amacron</key><integer>-73</integer>
+		<key>amacron.sc</key><integer>-159</integer>
 		<key>ampersand</key><integer>-96</integer>
 		<key>aogonek</key><integer>-73</integer>
 		<key>aogonek.sc</key><integer>-159</integer>
@@ -8945,6 +9336,7 @@
 		<key>Adieresis</key><integer>-183</integer>
 		<key>AE</key><integer>-213</integer>
 		<key>Agrave</key><integer>-183</integer>
+		<key>Amacron</key><integer>-183</integer>
 		<key>Aogonek</key><integer>-183</integer>
 		<key>Aring</key><integer>-183</integer>
 		<key>Atilde</key><integer>-183</integer>
@@ -8955,6 +9347,7 @@
 		<key>adieresis</key><integer>-117</integer>
 		<key>ae</key><integer>-117</integer>
 		<key>agrave</key><integer>-117</integer>
+		<key>amacron</key><integer>-117</integer>
 		<key>ampersand</key><integer>-109</integer>
 		<key>aogonek</key><integer>-117</integer>
 		<key>aring</key><integer>-117</integer>
@@ -9075,6 +9468,7 @@
 		<key>Adieresis</key><integer>-130</integer>
 		<key>AE</key><integer>-130</integer>
 		<key>Agrave</key><integer>-130</integer>
+		<key>Amacron</key><integer>-130</integer>
 		<key>Aogonek</key><integer>-130</integer>
 		<key>Aring</key><integer>-130</integer>
 		<key>Atilde</key><integer>-130</integer>
@@ -9092,6 +9486,8 @@
 		<key>ae.sc</key><integer>-112</integer>
 		<key>agrave</key><integer>-44</integer>
 		<key>agrave.sc</key><integer>-112</integer>
+		<key>amacron</key><integer>-44</integer>
+		<key>amacron.sc</key><integer>-112</integer>
 		<key>ampersand</key><integer>-56</integer>
 		<key>aogonek</key><integer>-44</integer>
 		<key>aogonek.sc</key><integer>-112</integer>
@@ -9186,6 +9582,7 @@
 		<key>adieresis.sc</key><integer>-150</integer>
 		<key>ae.sc</key><integer>-194</integer>
 		<key>agrave.sc</key><integer>-150</integer>
+		<key>amacron.sc</key><integer>-150</integer>
 		<key>ampersand</key><integer>-82</integer>
 		<key>aogonek.sc</key><integer>-150</integer>
 		<key>aring.sc</key><integer>-150</integer>
@@ -9246,6 +9643,7 @@
 		<key>Adieresis</key><integer>-150</integer>
 		<key>AE</key><integer>-174</integer>
 		<key>Agrave</key><integer>-150</integer>
+		<key>Amacron</key><integer>-150</integer>
 		<key>Aogonek</key><integer>-150</integer>
 		<key>Aring</key><integer>-150</integer>
 		<key>Atilde</key><integer>-150</integer>
@@ -9263,6 +9661,8 @@
 		<key>ae.sc</key><integer>-152</integer>
 		<key>agrave</key><integer>-77</integer>
 		<key>agrave.sc</key><integer>-106</integer>
+		<key>amacron</key><integer>-77</integer>
+		<key>amacron.sc</key><integer>-106</integer>
 		<key>ampersand</key><integer>-96</integer>
 		<key>aogonek</key><integer>-77</integer>
 		<key>aogonek.sc</key><integer>-106</integer>
@@ -9426,6 +9826,7 @@
 		<key>Adieresis</key><integer>-150</integer>
 		<key>AE</key><integer>-174</integer>
 		<key>Agrave</key><integer>-150</integer>
+		<key>Amacron</key><integer>-150</integer>
 		<key>Aogonek</key><integer>-150</integer>
 		<key>Aring</key><integer>-150</integer>
 		<key>Atilde</key><integer>-150</integer>
@@ -9443,6 +9844,8 @@
 		<key>ae.sc</key><integer>-152</integer>
 		<key>agrave</key><integer>-77</integer>
 		<key>agrave.sc</key><integer>-106</integer>
+		<key>amacron</key><integer>-77</integer>
+		<key>amacron.sc</key><integer>-106</integer>
 		<key>ampersand</key><integer>-96</integer>
 		<key>aogonek</key><integer>-77</integer>
 		<key>aogonek.sc</key><integer>-106</integer>
@@ -9606,6 +10009,7 @@
 		<key>Adieresis</key><integer>-103</integer>
 		<key>AE</key><integer>-125</integer>
 		<key>Agrave</key><integer>-103</integer>
+		<key>Amacron</key><integer>-103</integer>
 		<key>Aogonek</key><integer>-103</integer>
 		<key>Aring</key><integer>-103</integer>
 		<key>Atilde</key><integer>-103</integer>
@@ -9616,6 +10020,7 @@
 		<key>adieresis</key><integer>-31</integer>
 		<key>ae</key><integer>-31</integer>
 		<key>agrave</key><integer>-31</integer>
+		<key>amacron</key><integer>-31</integer>
 		<key>ampersand</key><integer>-42</integer>
 		<key>aogonek</key><integer>-31</integer>
 		<key>aring</key><integer>-31</integer>
@@ -9699,6 +10104,7 @@
 		<key>adieresis.sc</key><integer>-130</integer>
 		<key>ae.sc</key><integer>-141</integer>
 		<key>agrave.sc</key><integer>-130</integer>
+		<key>amacron.sc</key><integer>-130</integer>
 		<key>ampersand</key><integer>-69</integer>
 		<key>aogonek.sc</key><integer>-130</integer>
 		<key>aring.sc</key><integer>-130</integer>
@@ -9759,6 +10165,7 @@
 		<key>Adieresis</key><integer>-103</integer>
 		<key>AE</key><integer>-125</integer>
 		<key>Agrave</key><integer>-103</integer>
+		<key>Amacron</key><integer>-103</integer>
 		<key>Aogonek</key><integer>-103</integer>
 		<key>Aring</key><integer>-103</integer>
 		<key>Atilde</key><integer>-103</integer>
@@ -9769,6 +10176,7 @@
 		<key>adieresis</key><integer>-31</integer>
 		<key>ae</key><integer>-31</integer>
 		<key>agrave</key><integer>-31</integer>
+		<key>amacron</key><integer>-31</integer>
 		<key>ampersand</key><integer>-42</integer>
 		<key>aogonek</key><integer>-31</integer>
 		<key>aring</key><integer>-31</integer>
@@ -9852,6 +10260,7 @@
 		<key>adieresis.sc</key><integer>-130</integer>
 		<key>ae.sc</key><integer>-141</integer>
 		<key>agrave.sc</key><integer>-130</integer>
+		<key>amacron.sc</key><integer>-130</integer>
 		<key>ampersand</key><integer>-69</integer>
 		<key>aogonek.sc</key><integer>-130</integer>
 		<key>aring.sc</key><integer>-130</integer>
@@ -10034,6 +10443,7 @@
 		<key>Adieresis</key><integer>-196</integer>
 		<key>AE</key><integer>-257</integer>
 		<key>Agrave</key><integer>-196</integer>
+		<key>Amacron</key><integer>-196</integer>
 		<key>Aogonek</key><integer>-196</integer>
 		<key>Aring</key><integer>-196</integer>
 		<key>Atilde</key><integer>-196</integer>
@@ -10044,6 +10454,7 @@
 		<key>adieresis</key><integer>-134</integer>
 		<key>ae</key><integer>-172</integer>
 		<key>agrave</key><integer>-134</integer>
+		<key>amacron</key><integer>-134</integer>
 		<key>ampersand</key><integer>-116</integer>
 		<key>aogonek</key><integer>-134</integer>
 		<key>aring</key><integer>-134</integer>
@@ -10108,6 +10519,7 @@
 		<key>Adieresis</key><integer>-196</integer>
 		<key>AE</key><integer>-257</integer>
 		<key>Agrave</key><integer>-196</integer>
+		<key>Amacron</key><integer>-196</integer>
 		<key>Aogonek</key><integer>-196</integer>
 		<key>Aring</key><integer>-196</integer>
 		<key>Atilde</key><integer>-196</integer>
@@ -10118,6 +10530,7 @@
 		<key>adieresis</key><integer>-134</integer>
 		<key>ae</key><integer>-172</integer>
 		<key>agrave</key><integer>-134</integer>
+		<key>amacron</key><integer>-134</integer>
 		<key>ampersand</key><integer>-116</integer>
 		<key>aogonek</key><integer>-134</integer>
 		<key>aring</key><integer>-134</integer>
@@ -10182,6 +10595,7 @@
 		<key>Adieresis</key><integer>-196</integer>
 		<key>AE</key><integer>-257</integer>
 		<key>Agrave</key><integer>-196</integer>
+		<key>Amacron</key><integer>-196</integer>
 		<key>Aogonek</key><integer>-196</integer>
 		<key>Aring</key><integer>-196</integer>
 		<key>Atilde</key><integer>-196</integer>
@@ -10192,6 +10606,7 @@
 		<key>adieresis</key><integer>-134</integer>
 		<key>ae</key><integer>-172</integer>
 		<key>agrave</key><integer>-134</integer>
+		<key>amacron</key><integer>-134</integer>
 		<key>ampersand</key><integer>-116</integer>
 		<key>aogonek</key><integer>-134</integer>
 		<key>aring</key><integer>-134</integer>
@@ -10256,6 +10671,7 @@
 		<key>Adieresis</key><integer>-196</integer>
 		<key>AE</key><integer>-257</integer>
 		<key>Agrave</key><integer>-196</integer>
+		<key>Amacron</key><integer>-196</integer>
 		<key>Aogonek</key><integer>-196</integer>
 		<key>Aring</key><integer>-196</integer>
 		<key>Atilde</key><integer>-196</integer>
@@ -10266,6 +10682,7 @@
 		<key>adieresis</key><integer>-134</integer>
 		<key>ae</key><integer>-172</integer>
 		<key>agrave</key><integer>-134</integer>
+		<key>amacron</key><integer>-134</integer>
 		<key>ampersand</key><integer>-116</integer>
 		<key>aogonek</key><integer>-134</integer>
 		<key>aring</key><integer>-134</integer>
@@ -10330,6 +10747,7 @@
 		<key>Adieresis</key><integer>-136</integer>
 		<key>AE</key><integer>-136</integer>
 		<key>Agrave</key><integer>-136</integer>
+		<key>Amacron</key><integer>-136</integer>
 		<key>Aogonek</key><integer>-136</integer>
 		<key>Aring</key><integer>-136</integer>
 		<key>Atilde</key><integer>-136</integer>
@@ -10340,6 +10758,7 @@
 		<key>adieresis</key><integer>-35</integer>
 		<key>ae</key><integer>-35</integer>
 		<key>agrave</key><integer>-35</integer>
+		<key>amacron</key><integer>-35</integer>
 		<key>ampersand</key><integer>-49</integer>
 		<key>aogonek</key><integer>-35</integer>
 		<key>aring</key><integer>-35</integer>
@@ -10397,6 +10816,7 @@
 		<key>adieresis.sc</key><integer>-167</integer>
 		<key>ae.sc</key><integer>-211</integer>
 		<key>agrave.sc</key><integer>-167</integer>
+		<key>amacron.sc</key><integer>-167</integer>
 		<key>ampersand</key><integer>-76</integer>
 		<key>aogonek.sc</key><integer>-167</integer>
 		<key>aring.sc</key><integer>-167</integer>
@@ -10418,6 +10838,7 @@
 		<key>Adieresis</key><integer>-136</integer>
 		<key>AE</key><integer>-136</integer>
 		<key>Agrave</key><integer>-136</integer>
+		<key>Amacron</key><integer>-136</integer>
 		<key>Aogonek</key><integer>-136</integer>
 		<key>Aring</key><integer>-136</integer>
 		<key>Atilde</key><integer>-136</integer>
@@ -10428,6 +10849,7 @@
 		<key>adieresis</key><integer>-35</integer>
 		<key>ae</key><integer>-35</integer>
 		<key>agrave</key><integer>-35</integer>
+		<key>amacron</key><integer>-35</integer>
 		<key>ampersand</key><integer>-49</integer>
 		<key>aogonek</key><integer>-35</integer>
 		<key>aring</key><integer>-35</integer>
@@ -10485,6 +10907,7 @@
 		<key>adieresis.sc</key><integer>-167</integer>
 		<key>ae.sc</key><integer>-211</integer>
 		<key>agrave.sc</key><integer>-167</integer>
+		<key>amacron.sc</key><integer>-167</integer>
 		<key>ampersand</key><integer>-76</integer>
 		<key>aogonek.sc</key><integer>-167</integer>
 		<key>aring.sc</key><integer>-167</integer>
@@ -10506,6 +10929,7 @@
 		<key>Adieresis</key><integer>-136</integer>
 		<key>AE</key><integer>-136</integer>
 		<key>Agrave</key><integer>-136</integer>
+		<key>Amacron</key><integer>-136</integer>
 		<key>Aogonek</key><integer>-136</integer>
 		<key>Aring</key><integer>-136</integer>
 		<key>Atilde</key><integer>-136</integer>
@@ -10516,6 +10940,7 @@
 		<key>adieresis</key><integer>-35</integer>
 		<key>ae</key><integer>-35</integer>
 		<key>agrave</key><integer>-35</integer>
+		<key>amacron</key><integer>-35</integer>
 		<key>ampersand</key><integer>-49</integer>
 		<key>aogonek</key><integer>-35</integer>
 		<key>aring</key><integer>-35</integer>
@@ -10573,6 +10998,7 @@
 		<key>adieresis.sc</key><integer>-167</integer>
 		<key>ae.sc</key><integer>-211</integer>
 		<key>agrave.sc</key><integer>-167</integer>
+		<key>amacron.sc</key><integer>-167</integer>
 		<key>ampersand</key><integer>-76</integer>
 		<key>aogonek.sc</key><integer>-167</integer>
 		<key>aring.sc</key><integer>-167</integer>
@@ -10594,6 +11020,7 @@
 		<key>Adieresis</key><integer>-136</integer>
 		<key>AE</key><integer>-136</integer>
 		<key>Agrave</key><integer>-136</integer>
+		<key>Amacron</key><integer>-136</integer>
 		<key>Aogonek</key><integer>-136</integer>
 		<key>Aring</key><integer>-136</integer>
 		<key>Atilde</key><integer>-136</integer>
@@ -10604,6 +11031,7 @@
 		<key>adieresis</key><integer>-35</integer>
 		<key>ae</key><integer>-35</integer>
 		<key>agrave</key><integer>-35</integer>
+		<key>amacron</key><integer>-35</integer>
 		<key>ampersand</key><integer>-49</integer>
 		<key>aogonek</key><integer>-35</integer>
 		<key>aring</key><integer>-35</integer>
@@ -10661,6 +11089,7 @@
 		<key>adieresis.sc</key><integer>-167</integer>
 		<key>ae.sc</key><integer>-211</integer>
 		<key>agrave.sc</key><integer>-167</integer>
+		<key>amacron.sc</key><integer>-167</integer>
 		<key>ampersand</key><integer>-76</integer>
 		<key>aogonek.sc</key><integer>-167</integer>
 		<key>aring.sc</key><integer>-167</integer>
