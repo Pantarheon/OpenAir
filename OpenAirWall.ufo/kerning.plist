@@ -56,6 +56,17 @@
 		<key>j.sc</key><integer>-33</integer>
 		<key>jcircumflex</key><integer>-71</integer>
 		<key>jcircumflex.sc</key><integer>-33</integer>
+		<key>O</key><integer>-41</integer>
+		<key>Oacute</key><integer>-41</integer>
+		<key>Obreve</key><integer>-41</integer>
+		<key>Ocircumflex</key><integer>-41</integer>
+		<key>Odieresis</key><integer>-41</integer>
+		<key>OE</key><integer>-41</integer>
+		<key>Ograve</key><integer>-41</integer>
+		<key>Ohorn</key><integer>-41</integer>
+		<key>Ohungarumlaut</key><integer>-41</integer>
+		<key>Omacron</key><integer>-41</integer>
+		<key>Otilde</key><integer>-41</integer>
 		<key>o</key><integer>-47</integer>
 		<key>o.sc</key><integer>-50</integer>
 		<key>oacute</key><integer>-47</integer>
@@ -79,6 +90,7 @@
 		<key>oslash.sc</key><integer>-10</integer>
 		<key>otilde</key><integer>-47</integer>
 		<key>otilde.sc</key><integer>-50</integer>
+		<key>Q</key><integer>-41</integer>
 		<key>q</key><integer>-47</integer>
 		<key>q.sc</key><integer>-50</integer>
 		<key>question</key><integer>-136</integer>
@@ -201,6 +213,17 @@
 		<key>j.sc</key><integer>-33</integer>
 		<key>jcircumflex</key><integer>-71</integer>
 		<key>jcircumflex.sc</key><integer>-33</integer>
+		<key>O</key><integer>-41</integer>
+		<key>Oacute</key><integer>-41</integer>
+		<key>Obreve</key><integer>-41</integer>
+		<key>Ocircumflex</key><integer>-41</integer>
+		<key>Odieresis</key><integer>-41</integer>
+		<key>OE</key><integer>-41</integer>
+		<key>Ograve</key><integer>-41</integer>
+		<key>Ohorn</key><integer>-41</integer>
+		<key>Ohungarumlaut</key><integer>-41</integer>
+		<key>Omacron</key><integer>-41</integer>
+		<key>Otilde</key><integer>-41</integer>
 		<key>o</key><integer>-47</integer>
 		<key>o.sc</key><integer>-50</integer>
 		<key>oacute</key><integer>-47</integer>
@@ -224,6 +247,7 @@
 		<key>oslash.sc</key><integer>-10</integer>
 		<key>otilde</key><integer>-47</integer>
 		<key>otilde.sc</key><integer>-50</integer>
+		<key>Q</key><integer>-41</integer>
 		<key>q</key><integer>-47</integer>
 		<key>q.sc</key><integer>-50</integer>
 		<key>question</key><integer>-136</integer>
@@ -346,6 +370,17 @@
 		<key>j.sc</key><integer>-33</integer>
 		<key>jcircumflex</key><integer>-71</integer>
 		<key>jcircumflex.sc</key><integer>-33</integer>
+		<key>O</key><integer>-41</integer>
+		<key>Oacute</key><integer>-41</integer>
+		<key>Obreve</key><integer>-41</integer>
+		<key>Ocircumflex</key><integer>-41</integer>
+		<key>Odieresis</key><integer>-41</integer>
+		<key>OE</key><integer>-41</integer>
+		<key>Ograve</key><integer>-41</integer>
+		<key>Ohorn</key><integer>-41</integer>
+		<key>Ohungarumlaut</key><integer>-41</integer>
+		<key>Omacron</key><integer>-41</integer>
+		<key>Otilde</key><integer>-41</integer>
 		<key>o</key><integer>-47</integer>
 		<key>o.sc</key><integer>-50</integer>
 		<key>oacute</key><integer>-47</integer>
@@ -369,6 +404,7 @@
 		<key>oslash.sc</key><integer>-10</integer>
 		<key>otilde</key><integer>-47</integer>
 		<key>otilde.sc</key><integer>-50</integer>
+		<key>Q</key><integer>-41</integer>
 		<key>q</key><integer>-47</integer>
 		<key>q.sc</key><integer>-50</integer>
 		<key>question</key><integer>-136</integer>
@@ -491,6 +527,17 @@
 		<key>j.sc</key><integer>-33</integer>
 		<key>jcircumflex</key><integer>-71</integer>
 		<key>jcircumflex.sc</key><integer>-33</integer>
+		<key>O</key><integer>-41</integer>
+		<key>Oacute</key><integer>-41</integer>
+		<key>Obreve</key><integer>-41</integer>
+		<key>Ocircumflex</key><integer>-41</integer>
+		<key>Odieresis</key><integer>-41</integer>
+		<key>OE</key><integer>-41</integer>
+		<key>Ograve</key><integer>-41</integer>
+		<key>Ohorn</key><integer>-41</integer>
+		<key>Ohungarumlaut</key><integer>-41</integer>
+		<key>Omacron</key><integer>-41</integer>
+		<key>Otilde</key><integer>-41</integer>
 		<key>o</key><integer>-47</integer>
 		<key>o.sc</key><integer>-50</integer>
 		<key>oacute</key><integer>-47</integer>
@@ -514,6 +561,7 @@
 		<key>oslash.sc</key><integer>-10</integer>
 		<key>otilde</key><integer>-47</integer>
 		<key>otilde.sc</key><integer>-50</integer>
+		<key>Q</key><integer>-41</integer>
 		<key>q</key><integer>-47</integer>
 		<key>q.sc</key><integer>-50</integer>
 		<key>question</key><integer>-136</integer>
@@ -636,6 +684,17 @@
 		<key>j.sc</key><integer>-33</integer>
 		<key>jcircumflex</key><integer>-71</integer>
 		<key>jcircumflex.sc</key><integer>-33</integer>
+		<key>O</key><integer>-41</integer>
+		<key>Oacute</key><integer>-41</integer>
+		<key>Obreve</key><integer>-41</integer>
+		<key>Ocircumflex</key><integer>-41</integer>
+		<key>Odieresis</key><integer>-41</integer>
+		<key>OE</key><integer>-41</integer>
+		<key>Ograve</key><integer>-41</integer>
+		<key>Ohorn</key><integer>-41</integer>
+		<key>Ohungarumlaut</key><integer>-41</integer>
+		<key>Omacron</key><integer>-41</integer>
+		<key>Otilde</key><integer>-41</integer>
 		<key>o</key><integer>-47</integer>
 		<key>o.sc</key><integer>-50</integer>
 		<key>oacute</key><integer>-47</integer>
@@ -659,6 +718,7 @@
 		<key>oslash.sc</key><integer>-10</integer>
 		<key>otilde</key><integer>-47</integer>
 		<key>otilde.sc</key><integer>-50</integer>
+		<key>Q</key><integer>-41</integer>
 		<key>q</key><integer>-47</integer>
 		<key>q.sc</key><integer>-50</integer>
 		<key>question</key><integer>-136</integer>
@@ -781,6 +841,17 @@
 		<key>j.sc</key><integer>-33</integer>
 		<key>jcircumflex</key><integer>-71</integer>
 		<key>jcircumflex.sc</key><integer>-33</integer>
+		<key>O</key><integer>-41</integer>
+		<key>Oacute</key><integer>-41</integer>
+		<key>Obreve</key><integer>-41</integer>
+		<key>Ocircumflex</key><integer>-41</integer>
+		<key>Odieresis</key><integer>-41</integer>
+		<key>OE</key><integer>-41</integer>
+		<key>Ograve</key><integer>-41</integer>
+		<key>Ohorn</key><integer>-41</integer>
+		<key>Ohungarumlaut</key><integer>-41</integer>
+		<key>Omacron</key><integer>-41</integer>
+		<key>Otilde</key><integer>-41</integer>
 		<key>o</key><integer>-47</integer>
 		<key>o.sc</key><integer>-50</integer>
 		<key>oacute</key><integer>-47</integer>
@@ -804,6 +875,7 @@
 		<key>oslash.sc</key><integer>-10</integer>
 		<key>otilde</key><integer>-47</integer>
 		<key>otilde.sc</key><integer>-50</integer>
+		<key>Q</key><integer>-41</integer>
 		<key>q</key><integer>-47</integer>
 		<key>q.sc</key><integer>-50</integer>
 		<key>question</key><integer>-136</integer>
@@ -926,6 +998,17 @@
 		<key>j.sc</key><integer>-33</integer>
 		<key>jcircumflex</key><integer>-71</integer>
 		<key>jcircumflex.sc</key><integer>-33</integer>
+		<key>O</key><integer>-41</integer>
+		<key>Oacute</key><integer>-41</integer>
+		<key>Obreve</key><integer>-41</integer>
+		<key>Ocircumflex</key><integer>-41</integer>
+		<key>Odieresis</key><integer>-41</integer>
+		<key>OE</key><integer>-41</integer>
+		<key>Ograve</key><integer>-41</integer>
+		<key>Ohorn</key><integer>-41</integer>
+		<key>Ohungarumlaut</key><integer>-41</integer>
+		<key>Omacron</key><integer>-41</integer>
+		<key>Otilde</key><integer>-41</integer>
 		<key>o</key><integer>-47</integer>
 		<key>o.sc</key><integer>-50</integer>
 		<key>oacute</key><integer>-47</integer>
@@ -949,6 +1032,7 @@
 		<key>oslash.sc</key><integer>-10</integer>
 		<key>otilde</key><integer>-47</integer>
 		<key>otilde.sc</key><integer>-50</integer>
+		<key>Q</key><integer>-41</integer>
 		<key>q</key><integer>-47</integer>
 		<key>q.sc</key><integer>-50</integer>
 		<key>question</key><integer>-136</integer>
@@ -1071,6 +1155,17 @@
 		<key>j.sc</key><integer>-33</integer>
 		<key>jcircumflex</key><integer>-7</integer>
 		<key>jcircumflex.sc</key><integer>-33</integer>
+		<key>O</key><integer>-41</integer>
+		<key>Oacute</key><integer>-41</integer>
+		<key>Obreve</key><integer>-41</integer>
+		<key>Ocircumflex</key><integer>-41</integer>
+		<key>Odieresis</key><integer>-41</integer>
+		<key>OE</key><integer>-41</integer>
+		<key>Ograve</key><integer>-41</integer>
+		<key>Ohorn</key><integer>-41</integer>
+		<key>Ohungarumlaut</key><integer>-41</integer>
+		<key>Omacron</key><integer>-41</integer>
+		<key>Otilde</key><integer>-41</integer>
 		<key>o</key><integer>-47</integer>
 		<key>o.sc</key><integer>-50</integer>
 		<key>oacute</key><integer>-47</integer>
@@ -1094,6 +1189,7 @@
 		<key>oslash.sc</key><integer>-10</integer>
 		<key>otilde</key><integer>-47</integer>
 		<key>otilde.sc</key><integer>-50</integer>
+		<key>Q</key><integer>-41</integer>
 		<key>q</key><integer>-47</integer>
 		<key>q.sc</key><integer>-50</integer>
 		<key>question</key><integer>-136</integer>
@@ -1216,6 +1312,17 @@
 		<key>j.sc</key><integer>-33</integer>
 		<key>jcircumflex</key><integer>-71</integer>
 		<key>jcircumflex.sc</key><integer>-33</integer>
+		<key>O</key><integer>-41</integer>
+		<key>Oacute</key><integer>-41</integer>
+		<key>Obreve</key><integer>-41</integer>
+		<key>Ocircumflex</key><integer>-41</integer>
+		<key>Odieresis</key><integer>-41</integer>
+		<key>OE</key><integer>-41</integer>
+		<key>Ograve</key><integer>-41</integer>
+		<key>Ohorn</key><integer>-41</integer>
+		<key>Ohungarumlaut</key><integer>-41</integer>
+		<key>Omacron</key><integer>-41</integer>
+		<key>Otilde</key><integer>-41</integer>
 		<key>o</key><integer>-47</integer>
 		<key>o.sc</key><integer>-50</integer>
 		<key>oacute</key><integer>-47</integer>
@@ -1239,6 +1346,7 @@
 		<key>oslash.sc</key><integer>-10</integer>
 		<key>otilde</key><integer>-47</integer>
 		<key>otilde.sc</key><integer>-50</integer>
+		<key>Q</key><integer>-41</integer>
 		<key>q</key><integer>-47</integer>
 		<key>q.sc</key><integer>-50</integer>
 		<key>question</key><integer>-136</integer>
@@ -1361,6 +1469,17 @@
 		<key>j.sc</key><integer>-33</integer>
 		<key>jcircumflex</key><integer>-71</integer>
 		<key>jcircumflex.sc</key><integer>-33</integer>
+		<key>O</key><integer>-41</integer>
+		<key>Oacute</key><integer>-41</integer>
+		<key>Obreve</key><integer>-41</integer>
+		<key>Ocircumflex</key><integer>-41</integer>
+		<key>Odieresis</key><integer>-41</integer>
+		<key>OE</key><integer>-41</integer>
+		<key>Ograve</key><integer>-41</integer>
+		<key>Ohorn</key><integer>-41</integer>
+		<key>Ohungarumlaut</key><integer>-41</integer>
+		<key>Omacron</key><integer>-41</integer>
+		<key>Otilde</key><integer>-41</integer>
 		<key>o</key><integer>-47</integer>
 		<key>o.sc</key><integer>-50</integer>
 		<key>oacute</key><integer>-47</integer>
@@ -1384,6 +1503,7 @@
 		<key>oslash.sc</key><integer>-10</integer>
 		<key>otilde</key><integer>-47</integer>
 		<key>otilde.sc</key><integer>-50</integer>
+		<key>Q</key><integer>-41</integer>
 		<key>q</key><integer>-47</integer>
 		<key>q.sc</key><integer>-50</integer>
 		<key>question</key><integer>-136</integer>

@@ -1,4 +1,10 @@
 #!/usr/bin/jadro
+
+# Kerning for the OpenAir group of fonts.
+(
+	Script Copyright 2021 G. Adam Stanislav.
+	All rights reserved.
+)
 :As {	A
 	Aacute
 	Abreve
@@ -399,7 +405,7 @@
 }
 
 ~As [
-       -41  Cs
+       -41  periCs
        -47  perics
        -50  csc
        -46  f
