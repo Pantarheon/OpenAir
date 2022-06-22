@@ -2,7 +2,7 @@
 
 # Kerning for the OpenAir group of fonts.
 (
-	Script Copyright 2021 G. Adam Stanislav.
+	Script Copyright 2021-2022 G. Adam Stanislav.
 	All rights reserved.
 )
 :As {	A
@@ -538,6 +538,20 @@
        -63  ysc
        -45  upperquotes
 ]
+
+~bullet [
+       -66	periAs
+	   -63	periasc
+	   -70	Ts
+	   -22	tsc
+]
+
+^bullet <
+	   	As	-58
+		asc	-47
+		Ts	-60
+		tsc	  5
+>
 
 ~carons [
        -51  perias
