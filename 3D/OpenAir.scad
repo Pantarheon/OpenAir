@@ -50,7 +50,9 @@ module OpenAirEngrave(txt="Hello, World",
 	hshift = 0,
 	vshift = 5,
 	zshift = 0,
-	extrusion = 0,
+	extrusion = -1,
+	middle = -1,
+	top = -1,
 	overlap = -1,
 	segments = 0) {
 
@@ -59,22 +61,24 @@ module OpenAirEngrave(txt="Hello, World",
 	HorizontalShift = hshift;
 	VerticalShift = vshift;
 	ZShift = zshift;
-	Extrusion = (extrusion > 0) ? extrusion : 1;
+	Extrusion = (extrusion >= 0) ? extrusion : 1;
+	Middle = (middle >= 0) ? middle : Extrusion;
+	Top = (top >= 0) ? top : Extrusion;
 	Overlap = ((overlap >= 0) && (overlap < Extrusion)) ? overlap : 0.2 * Extrusion;
 	Segments = (segments > 0) ? segments : 100;
 
-	translate([HorizontalShift,VerticalShift,0*Extrusion+ZShift]) {
+	if (Extrusion) translate([HorizontalShift,VerticalShift,ZShift]) {
 		linear_extrude(Extrusion) 
 		text(Slovo, font="Open Air Wall", size=FontSize, $fn=Segments);
 	}
 
-	translate([HorizontalShift,VerticalShift,1*Extrusion+ZShift-Overlap]) {
-		linear_extrude(Extrusion+Overlap)
+	if (Middle) translate([HorizontalShift,VerticalShift,Extrusion+ZShift-Overlap]) {
+		linear_extrude(Middle+Overlap)
 		text(Slovo, font="Open Air Window", size=FontSize, $fn=Segments);
 	}
 
-	translate([HorizontalShift,VerticalShift,2*Extrusion+ZShift-Overlap]) {
-		linear_extrude(Extrusion+Overlap)
+	if (Top) translate([HorizontalShift,VerticalShift,Extrusion+Middle+ZShift-Overlap]) {
+		linear_extrude(Top+Overlap)
 		text(Slovo, font="Open Air Duct", size=FontSize, $fn=Segments);
 	}
 }
@@ -86,6 +90,8 @@ module OpenAirRaise(txt="Hello, World",
 	vshift = 5,
 	zshift = 0,
 	extrusion = 0,
+	middle = 0,
+	top = 0,
 	segments = 0) {
 
 	Slovo = txt;
@@ -94,23 +100,25 @@ module OpenAirRaise(txt="Hello, World",
 	VerticalShift = vshift;
 	ZShift = zshift;
 	Extrusion = (extrusion > 0) ? extrusion : 1.5;
+	Middle = (middle > 0) ? middle : Extrusion;
+	Top = (top > 0) ? top : Extrusion;
 	Segments = (segments > 0) ? segments : 100;
 
 	difference() {
 		difference() {
-			translate([HorizontalShift,VerticalShift,0*Extrusion+ZShift]) {
-				linear_extrude(Extrusion*3) 
+			translate([HorizontalShift,VerticalShift,ZShift]) {
+				linear_extrude(Extrusion+Middle+Top) 
 				text(Slovo, font="Open Air Wall", size=FontSize, $fn=Segments);
 			}
 
-			translate([HorizontalShift,VerticalShift,1*Extrusion+ZShift]) {
-				linear_extrude(Extrusion*2)
+			translate([HorizontalShift,VerticalShift,Extrusion+ZShift]) {
+				linear_extrude(Middle+Top)
 				text(Slovo, font="Open Air Duct", size=FontSize, $fn=Segments);
 			}
 		}
 
-		translate([HorizontalShift,VerticalShift,2*Extrusion+ZShift]) {
-			linear_extrude(Extrusion)
+		translate([HorizontalShift,VerticalShift,Extrusion+Middle+ZShift]) {
+			linear_extrude(Top)
 			text(Slovo, font="Open Air Window", size=FontSize, $fn=Segments);
 		}
 	}
