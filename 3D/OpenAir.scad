@@ -101,6 +101,7 @@ module OpenAirRaise(txt="Hello, World",
 	extrusion = -1,
 	middle = -1,
 	top = -1,
+	cave = false,
 	segments = 0) {
 
 	Slovo = txt;
@@ -126,7 +127,18 @@ module OpenAirRaise(txt="Hello, World",
 			}
 		}
 
-		translate([HorizontalShift,VerticalShift,Extrusion+Middle+ZShift]) {
+		if (cave) difference() {
+			translate([HorizontalShift,VerticalShift,Extrusion+Middle+ZShift]) {
+				linear_extrude(Middle+Top) 
+				text(Slovo, font="Open Air Wall", size=FontSize, $fn=Segments);
+			}
+
+			translate([HorizontalShift,VerticalShift,Extrusion+Middle+ZShift]) {
+				linear_extrude(Middle+Top)
+				text(Slovo, font="Open Air Window", size=FontSize, $fn=Segments);
+			}
+		}
+		else translate([HorizontalShift,VerticalShift,Extrusion+Middle+ZShift]) {
 			linear_extrude(Top)
 			text(Slovo, font="Open Air Window", size=FontSize, $fn=Segments);
 		}
