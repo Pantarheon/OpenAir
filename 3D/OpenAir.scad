@@ -45,6 +45,15 @@
 // from https://github.com/Pantarheon/OpenAir
 // for free.
 
+// N.B. In both of these models setting all of
+// extrusion, middle, and top to zero at the
+// same time will result of the models doing
+// nothing.
+//
+// So, in most applications you will generally
+// want to set at least one of the three to
+// something other than zero (0).
+
 module OpenAirEngrave(txt="Hello, World",
 	fontsize = 0,
 	hshift = 0,
@@ -89,9 +98,9 @@ module OpenAirRaise(txt="Hello, World",
 	hshift = 0,
 	vshift = 5,
 	zshift = 0,
-	extrusion = 0,
-	middle = 0,
-	top = 0,
+	extrusion = -1,
+	middle = -1,
+	top = -1,
 	segments = 0) {
 
 	Slovo = txt;
@@ -99,9 +108,9 @@ module OpenAirRaise(txt="Hello, World",
 	HorizontalShift = hshift;
 	VerticalShift = vshift;
 	ZShift = zshift;
-	Extrusion = (extrusion > 0) ? extrusion : 1.5;
-	Middle = (middle > 0) ? middle : Extrusion;
-	Top = (top > 0) ? top : Extrusion;
+	Extrusion = (extrusion >= 0) ? extrusion : 1.5;
+	Middle = (middle >= 0) ? middle : Extrusion;
+	Top = (top >= 0) ? top : Extrusion;
 	Segments = (segments > 0) ? segments : 100;
 
 	difference() {
